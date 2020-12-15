@@ -1,0 +1,5851 @@
+{
+    "group0": [
+        "textile_product",
+        "textile_machine",
+        "industrialisation"
+    ],
+    "group1": [
+        "vanuatu",
+        "industrial_waste",
+        "international_merger",
+        "technology_assessment"
+    ],
+    "group10": [
+        "industrial_pollution",
+        "aerated_drink",
+        "structure",
+        "fish_oil"
+    ],
+    "group100": [
+        "epirus",
+        "north_sea",
+        "periodical_publication"
+    ],
+    "group1000": [
+        "building_safety",
+        "financing_of_the_community_budget",
+        "grenada"
+    ],
+    "group1001": [
+        "automatic_game",
+        "fresh_fish",
+        "biological_weapon",
+        "price_reduction"
+    ],
+    "group1002": [
+        "textile_fibre",
+        "libya",
+        "mining_of_ore",
+        "european_political_cooperation"
+    ],
+    "group1003": [
+        "consumption",
+        "carriage_for_hire_or_reward",
+        "information_technology_user",
+        "elderly_person"
+    ],
+    "group1004": [
+        "harbour_installation",
+        "optical_industry",
+        "malta"
+    ],
+    "group1005": [
+        "family_policy",
+        "croatia",
+        "research_project",
+        "community_stock"
+    ],
+    "group1006": [
+        "selling_price",
+        "intra-community_relations",
+        "foreign_student",
+        "public_accounting"
+    ],
+    "group1007": [
+        "organisation_of_professions",
+        "catch_quota",
+        "rabbit_meat",
+        "cuba"
+    ],
+    "group1008": [
+        "metrology",
+        "animal_production",
+        "financial_agreement"
+    ],
+    "group1009": [
+        "company_structure",
+        "company_with_share_capital",
+        "nuclear_non-proliferation",
+        "available_energy"
+    ],
+    "group101": [
+        "branch",
+        "nitrogen",
+        "community_market",
+        "consumer_credit"
+    ],
+    "group1010": [
+        "animal_product",
+        "private_sector",
+        "municipality",
+        "fiji"
+    ],
+    "group1011": [
+        "female_work",
+        "building_plot",
+        "fight_against_insects",
+        "intellectual_property"
+    ],
+    "group1012": [
+        "capital_transfer",
+        "fight_against_unemployment",
+        "ferryboat"
+    ],
+    "group1013": [
+        "ferrous_metal",
+        "cost-benefit_analysis",
+        "film_production",
+        "rights_of_civil_servants"
+    ],
+    "group1014": [
+        "repatriation_grant",
+        "community_financing",
+        "carbon",
+        "film_industry"
+    ],
+    "group1015": [
+        "atmospheric_pollutant",
+        "fats",
+        "fertiliser_industry",
+        "eurocontrol"
+    ],
+    "group1016": [
+        "electronic_waste",
+        "fruit_vegetable",
+        "fruit_product"
+    ],
+    "group1017": [
+        "structural_funds",
+        "export_credit",
+        "export_financing",
+        "customs_inspection"
+    ],
+    "group1018": [
+        "community_import",
+        "repatriation_of_capital",
+        "ferro-alloy",
+        "fight_against_crime"
+    ],
+    "group1019": [
+        "european_defence_policy",
+        "forest",
+        "screen",
+        "international_transport"
+    ],
+    "group102": [
+        "social_security",
+        "destination_of_transport",
+        "estonia",
+        "clothing"
+    ],
+    "group1020": [
+        "coke",
+        "dietary_product",
+        "history_of_europe"
+    ],
+    "group1021": [
+        "farming_sector",
+        "forest_conservation",
+        "farm_price_support",
+        "\"farmers_income\""
+    ],
+    "group1022": [
+        "liberalisation_of_trade",
+        "road_safety",
+        "restriction_of_liberty",
+        "mercosur"
+    ],
+    "group1023": [
+        "local_election",
+        "european_communities",
+        "refrigeration_industry",
+        "rhineland-palatinate"
+    ],
+    "group103": [
+        "occupational_psychology",
+        "isle_of_man",
+        "commemoration",
+        "redevelopment_aid"
+    ],
+    "group104": [
+        "door-to-door_selling",
+        "redirection_of_production",
+        "selling_at_a_loss"
+    ],
+    "group105": [
+        "clandestine_worker",
+        "information_processing",
+        "inclusion_in_the_budget",
+        "distributor"
+    ],
+    "group106": [
+        "national_currency",
+        "hawaii",
+        "oil_seed_rape",
+        "mutual_recognition_principle"
+    ],
+    "group107": [
+        "national_accounts",
+        "distillation",
+        "namibia",
+        "eea_joint_consultative_committee"
+    ],
+    "group108": [
+        "ireland",
+        "distributive_trades",
+        "concrete"
+    ],
+    "group109": [
+        "iron_and_steel_industry",
+        "commission_agent",
+        "productivity",
+        "invitation_to_tender"
+    ],
+    "group11": [
+        "information_society",
+        "ec_joint_body",
+        "mineral_prospecting",
+        "quantitative_restriction"
+    ],
+    "group110": [
+        "anti-pollution_device",
+        "market_protection",
+        "animal_welfare",
+        "erosion"
+    ],
+    "group111": [
+        "industrial_investment",
+        "testing",
+        "export_aid",
+        "selective_dissemination_of_information"
+    ],
+    "group112": [
+        "hydraulic_works",
+        "bad_weather",
+        "epidemic"
+    ],
+    "group113": [
+        "milk",
+        "consultation_procedure",
+        "customs_profession",
+        "rodent"
+    ],
+    "group114": [
+        "gas_industry",
+        "unctad",
+        "early_retirement",
+        "publishing_of_prices"
+    ],
+    "group115": [
+        "english_channel",
+        "minimum_price",
+        "dumping_of_waste",
+        "7813.0"
+    ],
+    "group116": [
+        "cultural_relations",
+        "storage_of_waste",
+        "cinema"
+    ],
+    "group117": [
+        "nepal",
+        "extremadura",
+        "packaging_product",
+        "kenya"
+    ],
+    "group118": [
+        "meat_product",
+        "mecklenburg-west_pomerania",
+        "medical_diagnosis",
+        "ec_decision"
+    ],
+    "group119": [
+        "trade_by_product",
+        "honduras",
+        "flanders",
+        "gas"
+    ],
+    "group12": [
+        "decision",
+        "fuel_oil",
+        "consultation_of_information"
+    ],
+    "group120": [
+        "investment_transaction",
+        "economic_resources",
+        "prefabrication"
+    ],
+    "group121": [
+        "carrier",
+        "calabria",
+        "innovation",
+        "freedom_of_navigation"
+    ],
+    "group122": [
+        "customs_document",
+        "rule_of_law",
+        "fish_product",
+        "energy_resources"
+    ],
+    "group123": [
+        "international_agreement",
+        "european_citizenship",
+        "energy_production",
+        "nutritional_disease"
+    ],
+    "group124": [
+        "administrative_personnel",
+        "accident_prevention",
+        "shift_work"
+    ],
+    "group125": [
+        "england",
+        "price_stability",
+        "infringement_of_community_law",
+        "occupational_status"
+    ],
+    "group126": [
+        "development_aid",
+        "azores",
+        "backwardness_at_school",
+        "emilia-romagna"
+    ],
+    "group127": [
+        "fish_disease",
+        "jute",
+        "school-working_life_relations",
+        "geographical_mobility"
+    ],
+    "group128": [
+        "dairy_cow",
+        "protection_of_freedoms",
+        "control_of_state_aid"
+    ],
+    "group129": [
+        "hunting_regulations",
+        "autonomous_province_of_bolzano",
+        "ec_customs_territory",
+        "limitation_of_legal_proceedings"
+    ],
+    "group13": [
+        "job_mobility",
+        "arab_common_market",
+        "sea_fish",
+        "aragon"
+    ],
+    "group130": [
+        "plant_life",
+        "beverage_industry",
+        "extradition"
+    ],
+    "group131": [
+        "ec_agreement",
+        "reintegration_into_working_life",
+        "accountant",
+        "migrant_worker"
+    ],
+    "group132": [
+        "fisherman",
+        "financial_institution",
+        "european_association_agreement"
+    ],
+    "group133": [
+        "european_audio-visual_area",
+        "consortium",
+        "education_budget",
+        "summit_meeting"
+    ],
+    "group134": [
+        "fish_farming",
+        "information_network",
+        "dyestuff",
+        "ecsc_levy"
+    ],
+    "group135": [
+        "mechanical_equipment",
+        "mechanical_vibration",
+        "quality_label",
+        "ergonomics"
+    ],
+    "group136": [
+        "modernisation_aid",
+        "biodiversity",
+        "commercial_law"
+    ],
+    "group137": [
+        "distribution_business",
+        "bottled_wine",
+        "energy_industry",
+        "exploitation_of_the_seas"
+    ],
+    "group138": [
+        "uruguay",
+        "domestic_trade",
+        "south_africa",
+        "pension_scheme"
+    ],
+    "group139": [
+        "social_security_legislation",
+        "economic_growth",
+        "president",
+        "common_organisation_of_markets"
+    ],
+    "group14": [
+        "integration_of_migrants",
+        "energy_grid",
+        "ec_interinstitutional_cooperation",
+        "market_prices"
+    ],
+    "group140": [
+        "leather",
+        "health_expenditure",
+        "proof"
+    ],
+    "group141": [
+        "magistrate",
+        "common_wheat",
+        "decision-making_body",
+        "export"
+    ],
+    "group142": [
+        "accident_in_the_home",
+        "autonomous_province_of_trento",
+        "export_levy",
+        "maldives"
+    ],
+    "group143": [
+        "atlantic_ocean",
+        "industrial_equipment",
+        "child_labour",
+        "belize"
+    ],
+    "group144": [
+        "parliamentary_rules_of_procedure",
+        "medical_training",
+        "languedoc-roussillon"
+    ],
+    "group145": [
+        "hand_tool",
+        "carriage_of_passengers",
+        "motor_vehicle_insurance",
+        "sheep"
+    ],
+    "group146": [
+        "validation_of_expenditure",
+        "investment_project",
+        "state_of_a_federation"
+    ],
+    "group147": [
+        "duty-free_sale",
+        "head_of_state",
+        "nursing_staff",
+        "natural_person"
+    ],
+    "group148": [
+        "soil_conditioning",
+        "acquisition_of_property",
+        "size_of_business"
+    ],
+    "group149": [
+        "ec_case_law",
+        "ec_language_service",
+        "access_to_information",
+        "access_to_the_courts"
+    ],
+    "group15": [
+        "market_gardening",
+        "gas_appliance",
+        "job_cuts",
+        "ec_interinstitutional_relations"
+    ],
+    "group150": [
+        "combined_transport",
+        "hydraulic_machinery",
+        "sugar_refining",
+        "export_customs_procedure"
+    ],
+    "group151": [
+        "movement_certificate",
+        "turkey",
+        "hormone",
+        "distribution_of_community_funding"
+    ],
+    "group152": [
+        "conventional_weapon",
+        "insurance_company",
+        "oil_industry"
+    ],
+    "group153": [
+        "export_credit_insurance",
+        "legislation",
+        "toxic_substance",
+        "drinking_milk"
+    ],
+    "group154": [
+        "military_personnel",
+        "medical_plant",
+        "international_waters",
+        "public_transport"
+    ],
+    "group155": [
+        "ec_infringement_procedure",
+        "flat_product",
+        "insurance_law",
+        "instant_product"
+    ],
+    "group156": [
+        "charge_having_equivalent_effect",
+        "pulp_and_paper_industry",
+        "agricultural_waste"
+    ],
+    "group157": [
+        "comitology",
+        "pollution",
+        "share_capital",
+        "research_method"
+    ],
+    "group158": [
+        "explosive",
+        "domestic_market",
+        "right_to_culture",
+        "community_aid"
+    ],
+    "group159": [
+        "family",
+        "utilised_agricultural_area",
+        "ec_treaty",
+        "standard_of_living"
+    ],
+    "group16": [
+        "bearing",
+        "tungsten",
+        "motor_vehicle_industry"
+    ],
+    "group160": [
+        "publication_of_tariffs",
+        "customs",
+        "telecommunications_industry"
+    ],
+    "group161": [
+        "qatar",
+        "community_budget",
+        "china",
+        "french_overseas_territories"
+    ],
+    "group162": [
+        "port_traffic",
+        "consumer_information",
+        "push_towing"
+    ],
+    "group163": [
+        "eaggf",
+        "ec_ombudsman",
+        "fishing_grounds",
+        "consulate"
+    ],
+    "group164": [
+        "community_investment",
+        "incapacity_for_work",
+        "myanmar"
+    ],
+    "group165": [
+        "national_election",
+        "mode_of_production",
+        "non-flat_product",
+        "community_waters"
+    ],
+    "group166": [
+        "european_agency_for_safety_and_health_at_work",
+        "european_driving_licence",
+        "insured_risk",
+        "humid_zone"
+    ],
+    "group167": [
+        "supervisory_power",
+        "canada",
+        "multilateral_agreement",
+        "natural_resources"
+    ],
+    "group168": [
+        "acp-ec_committee_of_ambassadors",
+        "source_of_information",
+        "acp-ec_institution"
+    ],
+    "group169": [
+        "puerto_rico",
+        "supervisory_body",
+        "middle_east",
+        "expenditure"
+    ],
+    "group17": [
+        "degradation_of_the_environment",
+        "national",
+        "enforcement_of_ruling",
+        "national_implementation_of_community_law"
+    ],
+    "group170": [
+        "data-processing_law",
+        "draft_budget",
+        "facsimile",
+        "agriculture-trade_relationship"
+    ],
+    "group171": [
+        "part-time_employment",
+        "fishing_statistics",
+        "external_frontier_of_the_community",
+        "summertime"
+    ],
+    "group172": [
+        "7410.0",
+        "acid",
+        "acp-ec_council_of_ministers"
+    ],
+    "group173": [
+        "acp-ec_joint_assembly",
+        "currency_convertibility",
+        "\"employers_organisation\"",
+        "acidification"
+    ],
+    "group174": [
+        "northern_portugal",
+        "tourism",
+        "protection_of_minorities",
+        "tradeable_emission_permit"
+    ],
+    "group175": [
+        "oil_pollution",
+        "falkland_islands",
+        "ec_trade_agreement",
+        "services_contract"
+    ],
+    "group176": [
+        "radioactive_materials",
+        "bremen",
+        "activating_price"
+    ],
+    "group177": [
+        "industrial_manufacturing",
+        "financial_instrument",
+        "austria",
+        "allergy"
+    ],
+    "group178": [
+        "commercial_transaction",
+        "bread",
+        "parliamentary_election",
+        "energy_technology"
+    ],
+    "group179": [
+        "drug_addiction",
+        "7932.0",
+        "7936.0",
+        "radio_telecommunications"
+    ],
+    "group18": [
+        "investment_policy",
+        "transport_policy",
+        "information_industry"
+    ],
+    "group180": [
+        "hides_and_furskins_industry",
+        "domestic_waste",
+        "extra-community_trade"
+    ],
+    "group181": [
+        "export_restriction",
+        "bottling",
+        "acp-ec_convention",
+        "cargo_vessel"
+    ],
+    "group182": [
+        "esa",
+        "european_cooperative",
+        "price_of_securities",
+        "tax_incentive"
+    ],
+    "group183": [
+        "facilities_for_the_disabled",
+        "energy_transport",
+        "legal_system",
+        "health_risk"
+    ],
+    "group184": [
+        "presidential_election",
+        "euro-arab_cooperation",
+        "bracket_rate"
+    ],
+    "group185": [
+        "services_of_general_interest",
+        "road_building",
+        "microform",
+        "downloading"
+    ],
+    "group186": [
+        "ec_committee",
+        "brain_drain",
+        "set-aside",
+        "ec_body_and_agency"
+    ],
+    "group187": [
+        "pressure_equipment",
+        "branch_of_activity",
+        "fresh_fruit",
+        "launch_vehicle"
+    ],
+    "group188": [
+        "consumer_policy",
+        "eureka",
+        "epo"
+    ],
+    "group189": [
+        "animal_plague",
+        "drafting_of_community_law",
+        "clock_and_watch_industry",
+        "civil_engineering"
+    ],
+    "group19": [
+        "international_market",
+        "arab_league_countries",
+        "conglomerate",
+        "textile_plant"
+    ],
+    "group190": [
+        "ispa",
+        "ile-de-france",
+        "community_act",
+        "council_of_europe_fund"
+    ],
+    "group191": [
+        "diplomatic_profession",
+        "breeder_reactor",
+        "merger_control",
+        "freedom_to_provide_services"
+    ],
+    "group192": [
+        "protection_of_communications",
+        "data_protection",
+        "single_monetary_policy"
+    ],
+    "group193": [
+        "data_collection",
+        "japan",
+        "ec_fund",
+        "national_service"
+    ],
+    "group194": [
+        "caucasus_countries",
+        "judicial_cooperation",
+        "food_hygiene"
+    ],
+    "group195": [
+        "fringe_benefit",
+        "paraguay",
+        "pre-packaging",
+        "laos"
+    ],
+    "group196": [
+        "outline_law",
+        "common_commercial_policy",
+        "economic_forecasting"
+    ],
+    "group197": [
+        "india",
+        "appointment_of_staff",
+        "mining_extraction",
+        "re-export"
+    ],
+    "group198": [
+        "latvia",
+        "multinational_force",
+        "refugee",
+        "large_business"
+    ],
+    "group199": [
+        "bankruptcy",
+        "fuel_tax",
+        "agricultural_surplus",
+        "livestock_farming"
+    ],
+    "group2": [
+        "public_sector",
+        "structural_policy",
+        "european_patent"
+    ],
+    "group20": [
+        "aerosol",
+        "location_of_industry",
+        "budgetary_equilibrium"
+    ],
+    "group200": [
+        "peripheral_region",
+        "reduced_price",
+        "treaty_on_european_union"
+    ],
+    "group201": [
+        "intra-community_transport",
+        "local_wine",
+        "terms_for_aid",
+        "protective_clause"
+    ],
+    "group202": [
+        "common_market",
+        "community_employment_policy",
+        "single_market",
+        "eligibility_criteria"
+    ],
+    "group203": [
+        "drought",
+        "canon_law",
+        "executive_competence",
+        "closing_of_accounts"
+    ],
+    "group204": [
+        "data_recording",
+        "industrial_production",
+        "ecsc_general_decision"
+    ],
+    "group205": [
+        "school_attendance",
+        "ec_budgetary_discipline",
+        "parliamentary_immunity",
+        "fraud_against_the_community"
+    ],
+    "group206": [
+        "crude_oil",
+        "head_of_government",
+        "provision",
+        "community_borrowing"
+    ],
+    "group207": [
+        "consumer_demand",
+        "offshore_structure",
+        "bonus_payment",
+        "sports_body"
+    ],
+    "group208": [
+        "budgetary_classification",
+        "ecsc_operating_budget",
+        "transport_infrastructure"
+    ],
+    "group209": [
+        "monetary_cooperation",
+        "\"ships_passport\"",
+        "regional_law",
+        "territorial_waters"
+    ],
+    "group21": [
+        "national_expenditure",
+        "auxiliary_worker",
+        "hire_purchase",
+        "fiscal_policy"
+    ],
+    "group210": [
+        "trade_union_freedom",
+        "less-favoured_region",
+        "health_care",
+        "toxicology"
+    ],
+    "group211": [
+        "precision_engineering",
+        "regions_of_the_netherlands",
+        "precious_stones",
+        "turks_and_caicos_islands"
+    ],
+    "group212": [
+        "cultural_identity",
+        "community_resolution",
+        "free_competition"
+    ],
+    "group213": [
+        "paraffin",
+        "renewal_of_an_agreement",
+        "transport_network",
+        "el_salvador"
+    ],
+    "group214": [
+        "glucose",
+        "international_aid",
+        "pre-accession_strategy",
+        "family_benefit"
+    ],
+    "group215": [
+        "deposit_money",
+        "multilingualism",
+        "secretary_general",
+        "secondary_education"
+    ],
+    "group216": [
+        "bonded_wood",
+        "munster",
+        "documentary_reference_recording"
+    ],
+    "group217": [
+        "housing",
+        "protocol",
+        "protection_of_privacy",
+        "multifibre_agreement"
+    ],
+    "group218": [
+        "multilateral_surveillance",
+        "joint_venture",
+        "tertiary_sector",
+        "consolidation_of_community_law"
+    ],
+    "group219": [
+        "fossil_fuel",
+        "secondary_sector",
+        "multimedia",
+        "precision_instrument"
+    ],
+    "group22": [
+        "amending_budget",
+        "theft",
+        "documentation_centre",
+        "reform_of_the_cap"
+    ],
+    "group220": [
+        "carrying_capacity",
+        "osce",
+        "audio-visual_communications_policy"
+    ],
+    "group221": [
+        "budgetary_control",
+        "tobacco",
+        "maritime_surveillance",
+        "motorway"
+    ],
+    "group222": [
+        "alentejo",
+        "applied_research",
+        "radioactive_pollution",
+        "powers_of_the_ec_institutions"
+    ],
+    "group223": [
+        "law_of_banking",
+        "investment_aid",
+        "documentation",
+        "used_oil"
+    ],
+    "group224": [
+        "aegean_islands",
+        "approval",
+        "autonomous_territories_of_palestine"
+    ],
+    "group225": [
+        "reference_price",
+        "balkans",
+        "capital_increase",
+        "communications_tariff"
+    ],
+    "group226": [
+        "investment_cost",
+        "product_safety",
+        "french_overseas_departments"
+    ],
+    "group227": [
+        "togo",
+        "traveller",
+        "diplomatic_representation",
+        "electricity_supply"
+    ],
+    "group228": [
+        "toll",
+        "customs_duties",
+        "payable_service"
+    ],
+    "group229": [
+        "population_growth",
+        "recommendation",
+        "metal_waste",
+        "\"c??te_divoire\""
+    ],
+    "group23": [
+        "participating_country",
+        "industrial_research",
+        "north-south_relations",
+        "economic_interest_grouping"
+    ],
+    "group230": [
+        "skimmed_milk",
+        "tax_system",
+        "press",
+        "cooperative"
+    ],
+    "group231": [
+        "brick",
+        "brand_name",
+        "steel",
+        "eastern_bloc_countries"
+    ],
+    "group232": [
+        "tuscany",
+        "support_price",
+        "company_modernisation"
+    ],
+    "group233": [
+        "metal_structure",
+        "issuing_of_currency",
+        "aircraft",
+        "harvest"
+    ],
+    "group234": [
+        "fishing_controls",
+        "oleaginous_plant",
+        "recognition_of_vocational_training_qualifications",
+        "harmonisation_of_standards"
+    ],
+    "group235": [
+        "transport_user",
+        "tropical_fruit",
+        "tropical_forest",
+        "airline"
+    ],
+    "group236": [
+        "music",
+        "kazakhstan",
+        "carry-over_of_appropriations"
+    ],
+    "group237": [
+        "real_estate_credit",
+        "lead-free_petrol",
+        "mental_stress",
+        "electronic_document"
+    ],
+    "group238": [
+        "equatorial_guinea",
+        "sugar_industry",
+        "tropical_disease",
+        "emcf"
+    ],
+    "group239": [
+        "pacific_ocean",
+        "european_monitoring_centre_for_drugs_and_drug_addition",
+        "community_acquis",
+        "diplomatic_relations"
+    ],
+    "group24": [
+        "employment_statistics",
+        "embryo_and_foetus",
+        "transport_of_dangerous_goods"
+    ],
+    "group240": [
+        "provision_of_services",
+        "cooperation_procedure",
+        "province_of_li??ge"
+    ],
+    "group241": [
+        "public_health",
+        "lift",
+        "import_price",
+        "coalmining_policy"
+    ],
+    "group242": [
+        "agricultural_structure",
+        "diesel_engine",
+        "foot-and-mouth_disease",
+        "root_vegetable"
+    ],
+    "group243": [
+        "fresh_product",
+        "tree",
+        "cereal_flour",
+        "consumer_price"
+    ],
+    "group244": [
+        "population_statistics",
+        "mediator",
+        "civil_proceedings"
+    ],
+    "group245": [
+        "ec_court_of_auditors",
+        "cis",
+        "recognition_of_diplomas",
+        "indian_ocean"
+    ],
+    "group246": [
+        "ethanol",
+        "oecd",
+        "noise",
+        "supplying_of_documents"
+    ],
+    "group247": [
+        "export_policy",
+        "province_of_limbourg",
+        "oil_refining",
+        "mushroom-growing"
+    ],
+    "group248": [
+        "common_defence_policy",
+        "agricultural_by-product",
+        "divorce"
+    ],
+    "group249": [
+        "cid",
+        "brazil",
+        "common_customs_tariff",
+        "traffic_control"
+    ],
+    "group25": [
+        "revaluation",
+        "oil_technology",
+        "euro",
+        "suckler_cow"
+    ],
+    "group250": [
+        "deposit_on_a_polluting_product",
+        "division_of_powers",
+        "craft_production",
+        "family_law"
+    ],
+    "group251": [
+        "non-alcoholic_beverage",
+        "eaec_decision",
+        "magnesium",
+        "rural_population"
+    ],
+    "group252": [
+        "safety_standard",
+        "ground_water",
+        "parental_responsibility"
+    ],
+    "group253": [
+        "banking_supervision",
+        "fact-finding_mission",
+        "community_tax",
+        "midi-pyrenees"
+    ],
+    "group254": [
+        "developing_countries",
+        "food_technology",
+        "occupational_health",
+        "faeroes"
+    ],
+    "group255": [
+        "cost_of_living",
+        "vegetable_fats",
+        "export_subsidy",
+        "export_tax"
+    ],
+    "group256": [
+        "company_in_difficulties",
+        "operation_of_the_institutions",
+        "incorporation"
+    ],
+    "group257": [
+        "indebtedness",
+        "independence_of_the_judiciary",
+        "cis_countries",
+        "north-south_trade"
+    ],
+    "group258": [
+        "social_legislation",
+        "inorganic_acid",
+        "location_of_production"
+    ],
+    "group259": [
+        "audio-visual_equipment",
+        "liberal_profession",
+        "gcc_countries",
+        "cytology"
+    ],
+    "group26": [
+        "competitiveness",
+        "market_organisation",
+        "market_intervention",
+        "industrial_restructuring"
+    ],
+    "group260": [
+        "hidden_unemployment",
+        "cumulative_pension_entitlement",
+        "genetic_engineering"
+    ],
+    "group261": [
+        "gatt",
+        "european_cooperation",
+        "national_transport",
+        "thermal_equipment"
+    ],
+    "group262": [
+        "craft_business",
+        "satellite_navigation",
+        "load",
+        "czechoslovakia"
+    ],
+    "group263": [
+        "european_security",
+        "information_technology_industry",
+        "racism",
+        "unit_price"
+    ],
+    "group264": [
+        "teacher",
+        "surface_water",
+        "micro-computer"
+    ],
+    "group265": [
+        "public_administration",
+        "climate_change",
+        "customs_fraud",
+        "border_control"
+    ],
+    "group266": [
+        "fishery_management",
+        "retail_trade",
+        "decommissioning_of_power_stations",
+        "taxi"
+    ],
+    "group267": [
+        "insurance_indemnity",
+        "supermarket",
+        "oopec",
+        "job_access"
+    ],
+    "group268": [
+        "lactose",
+        "ratio",
+        "ratification_of_an_agreement"
+    ],
+    "group269": [
+        "child_of_migrant",
+        "indonesia",
+        "european_standard",
+        "raw_material"
+    ],
+    "group27": [
+        "milk_by-product",
+        "coal_mining",
+        "occupational_migration",
+        "petroleum"
+    ],
+    "group270": [
+        "military_regime",
+        "ironmongery",
+        "general_medicine",
+        "gnp_contribution"
+    ],
+    "group271": [
+        "farm_income",
+        "strike",
+        "market_economy",
+        "protected_area"
+    ],
+    "group272": [
+        "interpretation_of_the_law",
+        "tax_offence",
+        "monetary_support"
+    ],
+    "group273": [
+        "storage_of_hydrocarbons",
+        "occupational_safety",
+        "pollution_control",
+        "price_agreement"
+    ],
+    "group274": [
+        "international_criminal_law",
+        "doctor",
+        "ec_protocol"
+    ],
+    "group275": [
+        "transport_accident",
+        "psychotropic_substance",
+        "slaughtered_poultry",
+        "guyana"
+    ],
+    "group276": [
+        "transfer_of_businesses",
+        "material_of_animal_origin",
+        "nuclear_test"
+    ],
+    "group277": [
+        "thin_sheet",
+        "unlawful_agreement",
+        "animal_oil",
+        "business_policy"
+    ],
+    "group278": [
+        "industrial_credit",
+        "integrated_development_programme",
+        "ec_cooperation_agreement",
+        "student"
+    ],
+    "group279": [
+        "representative_price",
+        "\"patients_rights\"",
+        "foreign_national",
+        "guinea"
+    ],
+    "group28": [
+        "monetary_relations",
+        "economic_infrastructure",
+        "environmental_statistics"
+    ],
+    "group280": [
+        "employment_service",
+        "basic_price",
+        "administrative_cooperation"
+    ],
+    "group281": [
+        "home_working",
+        "alsace",
+        "community_migration",
+        "product_design"
+    ],
+    "group282": [
+        "product_life",
+        "product_designation",
+        "national_agricultural_policy",
+        "product_diversification"
+    ],
+    "group283": [
+        "producer_price",
+        "customs_drawback",
+        "processing_under_customs_control",
+        "national_budget"
+    ],
+    "group284": [
+        "condiment",
+        "dangerous_substance",
+        "civil_service"
+    ],
+    "group285": [
+        "technical_profession",
+        "eaec_joint_research_centre",
+        "cement",
+        "trust_company"
+    ],
+    "group286": [
+        "protected_species",
+        "regulation_of_agricultural_production",
+        "umbria",
+        "cereal_product"
+    ],
+    "group287": [
+        "electronic_equipment",
+        "free_movement_of_workers",
+        "microelectronics",
+        "cost_of_borrowing"
+    ],
+    "group288": [
+        "consultancy",
+        "marketing_year",
+        "housing_improvements"
+    ],
+    "group289": [
+        "pornography",
+        "scientific_cooperation",
+        "civil-law_association",
+        "sugar_beet"
+    ],
+    "group29": [
+        "metal_pollution",
+        "national_statistics",
+        "halogen",
+        "food_chemistry"
+    ],
+    "group290": [
+        "audio-visual_industry",
+        "community_body",
+        "educational_system"
+    ],
+    "group291": [
+        "community_action",
+        "insurance_claim",
+        "leguminous_vegetable",
+        "european_official"
+    ],
+    "group292": [
+        "tobacco_industry",
+        "nafo",
+        "limited_circulation"
+    ],
+    "group293": [
+        "sugar",
+        "efta",
+        "ec_conformity_marking",
+        "toilet_article"
+    ],
+    "group294": [
+        "education_policy",
+        "efta_countries",
+        "egypt",
+        "physical_environment"
+    ],
+    "group295": [
+        "eea_joint_institution",
+        "peripheral",
+        "dumping",
+        "organised_crime"
+    ],
+    "group296": [
+        "consumer_movement",
+        "common_transport_policy",
+        "contractual_liability"
+    ],
+    "group297": [
+        "political_group",
+        "sport",
+        "community_body_(established_by_the_treaties)",
+        "tax_avoidance"
+    ],
+    "group298": [
+        "ec_scientific_committee",
+        "industrial_region",
+        "salt",
+        "common_fund"
+    ],
+    "group299": [
+        "ec_association_council",
+        "homicide",
+        "fishing_permit",
+        "horticulture"
+    ],
+    "group3": [
+        "auvergne",
+        "information_storage",
+        "mauritania",
+        "aid_policy"
+    ],
+    "group30": [
+        "poultrymeat",
+        "migration_policy",
+        "cycle_and_motorcycle_industry",
+        "aquatic_environment"
+    ],
+    "group300": [
+        "pump",
+        "community_of_valencia",
+        "maritime_cabotage"
+    ],
+    "group301": [
+        "rule_under_emergency_powers",
+        "hong_kong",
+        "ec_general_budget",
+        "materials_technology"
+    ],
+    "group302": [
+        "ec_proposal",
+        "ec_servants",
+        "flemish_community",
+        "inter-company_cooperation"
+    ],
+    "group303": [
+        "building_materials",
+        "marine_environment",
+        "paints_and_varnishes",
+        "information_analysis"
+    ],
+    "group304": [
+        "consumer_survey",
+        "preservative",
+        "goods_and_services"
+    ],
+    "group305": [
+        "electric_machinery",
+        "dominant_position",
+        "eaec_joint_undertaking",
+        "cmea_countries"
+    ],
+    "group306": [
+        "pollution_of_waterways",
+        "crop_production",
+        "phosphate",
+        "air_transport"
+    ],
+    "group307": [
+        "community_social_dialogue",
+        "man-made_disaster",
+        "cooperation_in_home_affairs",
+        "cooperation_in_the_field_of_education"
+    ],
+    "group308": [
+        "distribution_of_aid",
+        "bolivia",
+        "narcotic"
+    ],
+    "group309": [
+        "asean_countries",
+        "farm_development_plan",
+        "foreign_exchange_market",
+        "interactive_network"
+    ],
+    "group31": [
+        "fishery_product",
+        "maritime_shipping",
+        "vat",
+        "care_of_mothers_and_infants"
+    ],
+    "group310": [
+        "conservation_of_resources",
+        "community_customs_procedure",
+        "thermal_insulation",
+        "mineral_oil"
+    ],
+    "group311": [
+        "import_licence",
+        "industrial_plot",
+        "research_body",
+        "advertising_malpractice"
+    ],
+    "group312": [
+        "official_visit",
+        "storage",
+        "fluorine"
+    ],
+    "group313": [
+        "eu_relations",
+        "international_monetary_system",
+        "metallurgical_industry",
+        "bahamas"
+    ],
+    "group314": [
+        "decree",
+        "access_to_education",
+        "floating_rate",
+        "serbia_and_montenegro"
+    ],
+    "group315": [
+        "sericulture",
+        "\"goats_milk_cheese\"",
+        "labour_tribunal",
+        "meal"
+    ],
+    "group316": [
+        "green_area",
+        "high-definition_television",
+        "ep_committee"
+    ],
+    "group317": [
+        "economic_sanctions",
+        "compulsory_insurance",
+        "slaughter_of_animals",
+        "composite_materials"
+    ],
+    "group318": [
+        "poultry",
+        "over-production",
+        "stock-exchange_transaction",
+        "development_plan"
+    ],
+    "group319": [
+        "retirement_conditions",
+        "price_indexing",
+        "cosmetic_product",
+        "european_environment_agency"
+    ],
+    "group32": [
+        "disaster_area",
+        "disclosure_of_information",
+        "energy_distribution"
+    ],
+    "group320": [
+        "ageing_of_the_population",
+        "tariff_quota",
+        "hessen"
+    ],
+    "group321": [
+        "conciliation_procedure",
+        "cct_duties",
+        "uzbekistan",
+        "cessation_of_farming"
+    ],
+    "group322": [
+        "\"mothers_milk\"",
+        "military_equipment",
+        "sardinia"
+    ],
+    "group323": [
+        "salted_product",
+        "hydroelectric_power",
+        "transport_authorisation",
+        "agricultural_advisory_services"
+    ],
+    "group324": [
+        "indirect_tax",
+        "international_convention",
+        "transparency_in_decision-making"
+    ],
+    "group325": [
+        "latium",
+        "regions_of_the_united_kingdom",
+        "international_human_rights_law",
+        "tinplate_and_cutlery_industry"
+    ],
+    "group326": [
+        "transport_economics",
+        "plant_health_control",
+        "saudi_arabia",
+        "continuing_education"
+    ],
+    "group327": [
+        "defence_policy",
+        "vaccination",
+        "vanadium",
+        "registration_tax"
+    ],
+    "group328": [
+        "reinsurance",
+        "international_cooperation",
+        "arrangement_of_working_time"
+    ],
+    "group329": [
+        "investment_company",
+        "support_policy",
+        "intergovernmental_organisation",
+        "civil_aviation"
+    ],
+    "group33": [
+        "energy_demand",
+        "programme_budgeting",
+        "coreper",
+        "energy_site"
+    ],
+    "group330": [
+        "sexual_mutilation",
+        "satellite_communications",
+        "africa",
+        "motor_vehicle"
+    ],
+    "group331": [
+        "bioprocess",
+        "ems_exchange-rate_mechanism",
+        "afforestation",
+        "economic_indicator"
+    ],
+    "group332": [
+        "equal_treatment",
+        "protocol_on_sugar",
+        "full-time_employment"
+    ],
+    "group333": [
+        "saarland",
+        "molise",
+        "union_representative",
+        "hydrocarbon"
+    ],
+    "group334": [
+        "quality_control_of_agricultural_products",
+        "international_currency",
+        "community_certification",
+        "animal_protein"
+    ],
+    "group335": [
+        "satellite",
+        "quality_standard",
+        "defective_product",
+        "industrial_building"
+    ],
+    "group336": [
+        "expatriate_worker",
+        "international_criminal_court",
+        "committee_report"
+    ],
+    "group337": [
+        "piedmont",
+        "ec_economic_and_social_committee",
+        "ec_directive",
+        "ec_intergovernmental_convention"
+    ],
+    "group338": [
+        "eu_accession_treaty",
+        "market_access",
+        "community_support_framework",
+        "community_control"
+    ],
+    "group339": [
+        "united_kingdom_oct",
+        "repeal",
+        "medicament",
+        "thailand"
+    ],
+    "group34": [
+        "equivalence_of_diplomas",
+        "eib",
+        "glass"
+    ],
+    "group340": [
+        "international_labour_law",
+        "education",
+        "thermal_energy"
+    ],
+    "group341": [
+        "employer",
+        "land_and_buildings",
+        "eu_country",
+        "intervention_stock"
+    ],
+    "group342": [
+        "saxony",
+        "savings",
+        "intervention_policy",
+        "edf"
+    ],
+    "group343": [
+        "ec_agriculture_committee",
+        "epidemiology",
+        "foreign_policy",
+        "united_kingdom"
+    ],
+    "group344": [
+        "salzburg",
+        "community_law",
+        "appeal"
+    ],
+    "group345": [
+        "penalty",
+        "slovak_republic",
+        "turbine",
+        "haiti"
+    ],
+    "group346": [
+        "risk_prevention",
+        "eligible_region",
+        "food_aid",
+        "malt"
+    ],
+    "group347": [
+        "revision_of_financial_perspectives",
+        "natural_food_colouring",
+        "hamburg",
+        "health_education"
+    ],
+    "group348": [
+        "greenhouse_effect",
+        "public_financing",
+        "taiwan"
+    ],
+    "group349": [
+        "ecsc_treaty",
+        "ec_joint_committee",
+        "sampling",
+        "level_of_education"
+    ],
+    "group35": [
+        "international_road_transport",
+        "export_of_waste",
+        "copyright",
+        "industrial_structures"
+    ],
+    "group350": [
+        "campania",
+        "electronic_funds_transfer",
+        "pay",
+        "electronic_government"
+    ],
+    "group351": [
+        "electronic_mail",
+        "exchange_rate",
+        "peace",
+        "occupied_territory"
+    ],
+    "group352": [
+        "investment_abroad",
+        "stamp_duty",
+        "standardised_accounting_system"
+    ],
+    "group353": [
+        "regulation_of_telecommunications",
+        "processed_foodstuff",
+        "use_of_languages",
+        "processing_industry"
+    ],
+    "group354": [
+        "chartering",
+        "modernisation_of_industry",
+        "europe"
+    ],
+    "group355": [
+        "economic_aid",
+        "ecology",
+        "metal_by-product",
+        "reduction_of_working_time"
+    ],
+    "group356": [
+        "registration_of_a_company",
+        "fishery_research",
+        "polymer"
+    ],
+    "group357": [
+        "ecological_balance",
+        "economic_aggregate",
+        "standing_committee",
+        "self-employed_person"
+    ],
+    "group358": [
+        "regulation",
+        "north-west_england",
+        "regulation_of_investments",
+        "australia"
+    ],
+    "group359": [
+        "free-at-frontier_price",
+        "standard",
+        "representative_market_price",
+        "pipeline_transport"
+    ],
+    "group36": [
+        "legal_aid",
+        "iso",
+        "island_region"
+    ],
+    "group360": [
+        "cotton",
+        "council_of_the_european_union",
+        "courts_and_tribunals"
+    ],
+    "group361": [
+        "costing",
+        "\"cows_milk_cheese\"",
+        "costa_rica",
+        "railway_industry"
+    ],
+    "group362": [
+        "connacht",
+        "5425.0",
+        "job_description",
+        "judicial_inquiry"
+    ],
+    "group363": [
+        "court_of_arbitration",
+        "united_arab_emirates",
+        "reparcelling",
+        "armed_forces"
+    ],
+    "group364": [
+        "government_programme",
+        "death_grant",
+        "charcoal"
+    ],
+    "group365": [
+        "asia",
+        "experiment_on_animals",
+        "experiment_on_humans",
+        "livestock_unit"
+    ],
+    "group366": [
+        "cow",
+        "armenia",
+        "countervailing_charge",
+        "cost_of_pollution"
+    ],
+    "group367": [
+        "architecture",
+        "vaccine",
+        "schengen_agreement",
+        "industrial_enterprise"
+    ],
+    "group368": [
+        "economic_agreement",
+        "standardisation",
+        "gold-exchange_standard"
+    ],
+    "group369": [
+        "slaughter_animal",
+        "starch",
+        "7950.0",
+        "economic_accounts_for_agriculture"
+    ],
+    "group37": [
+        "neurological_disease",
+        "european_agency_for_the_evaluation_of_medicinal_products",
+        "transfrontier_transport",
+        "groundnut"
+    ],
+    "group370": [
+        "leisure",
+        "balance_of_payments",
+        "loan",
+        "security_services"
+    ],
+    "group371": [
+        "regulations_for_civil_servants",
+        "time-sharing",
+        "environmental_policy",
+        "metalwork"
+    ],
+    "group372": [
+        "information_transfer",
+        "iaea",
+        "community_publication"
+    ],
+    "group373": [
+        "judicial_investigation",
+        "ceuta_and_melilla",
+        "paper_money",
+        "asean"
+    ],
+    "group374": [
+        "denmark",
+        "scientific_exchange",
+        "school_results",
+        "import_levy"
+    ],
+    "group375": [
+        "adr_agreement",
+        "community_financial_instrument",
+        "escb",
+        "cartel"
+    ],
+    "group376": [
+        "saint_pierre_and_miquelon",
+        "cameroon",
+        "business_management"
+    ],
+    "group377": [
+        "access_to_a_profession",
+        "foundation",
+        "domestic_product",
+        "financing_of_aid"
+    ],
+    "group378": [
+        "population_census",
+        "environmental_monitoring",
+        "designation_of_origin",
+        "approval_of_tariffs"
+    ],
+    "group379": [
+        "transgenic_plant",
+        "national_income",
+        "organisation",
+        "macroeconomics"
+    ],
+    "group38": [
+        "information_policy",
+        "container",
+        "chemical_product",
+        "chemical_salt"
+    ],
+    "group380": [
+        "saxony-anhalt",
+        "plant_health_treatment",
+        "on_line_data_service"
+    ],
+    "group381": [
+        "georgia",
+        "tyrrhenian_sea",
+        "nuclear_safety",
+        "security_of_supply"
+    ],
+    "group382": [
+        "generalised_preferences",
+        "aid_recipient",
+        "surgery",
+        "preserved_product"
+    ],
+    "group383": [
+        "mineral_water",
+        "anti-semitism",
+        "job_security",
+        "private_aid"
+    ],
+    "group384": [
+        "land_use",
+        "member_of_the_european_parliament",
+        "long-term_unemployment"
+    ],
+    "group385": [
+        "caribbean_islands",
+        "insurance",
+        "educational_institution",
+        "temporary_employment"
+    ],
+    "group386": [
+        "national_sovereignty",
+        "exclusive_purchasing_agreement",
+        "supply_and_demand"
+    ],
+    "group387": [
+        "buying_group",
+        "italy",
+        "labour_relations",
+        "laser_weapon"
+    ],
+    "group388": [
+        "health_card",
+        "performance_drugs",
+        "alloy"
+    ],
+    "group389": [
+        "portugal",
+        "free_movement_of_capital",
+        "economic_policy",
+        "intra-community_trade"
+    ],
+    "group39": [
+        "crest",
+        "european_organisation",
+        "information",
+        "occupational_accident_insurance"
+    ],
+    "group390": [
+        "erdf",
+        "axle_tax",
+        "slaughter_premium",
+        "insider_trading"
+    ],
+    "group391": [
+        "honey",
+        "holiday",
+        "institutional_reform",
+        "biotechnology"
+    ],
+    "group392": [
+        "sexual_discrimination",
+        "holding_of_two_jobs",
+        "midwife"
+    ],
+    "group393": [
+        "s??o_tom??_and_pr??ncipe",
+        "building",
+        "currency_adjustment",
+        "software"
+    ],
+    "group394": [
+        "diplomatic_immunity",
+        "fisheries_policy",
+        "consumer_behaviour",
+        "sales_aid"
+    ],
+    "group395": [
+        "territorial_law",
+        "programmed_learning",
+        "fresh_water",
+        "price_formation"
+    ],
+    "group396": [
+        "horizontal_agreement",
+        "imf",
+        "aid_programme"
+    ],
+    "group397": [
+        "agricultural_trade",
+        "plastics_industry",
+        "cable_distribution",
+        "lighting_equipment"
+    ],
+    "group398": [
+        "sample_survey",
+        "citrus_fruit",
+        "\"citizens_europe\"",
+        "revenue"
+    ],
+    "group399": [
+        "catch_area",
+        "housing_policy",
+        "intensive_livestock_farming",
+        "ec_research_expenditure"
+    ],
+    "group4": [
+        "company_law",
+        "customs_warehouse",
+        "market_enlargement"
+    ],
+    "group40": [
+        "cork",
+        "navarre",
+        "executive_power"
+    ],
+    "group400": [
+        "capital_city",
+        "grape",
+        "non-ferrous_ore"
+    ],
+    "group401": [
+        "community_competence",
+        "algeria",
+        "authorised_catch",
+        "resolution_of_the_council_of_the_european_union"
+    ],
+    "group402": [
+        "income",
+        "institutional_cooperation",
+        "baltic_sea"
+    ],
+    "group403": [
+        "free-trade_area",
+        "legal_status",
+        "fishing_net",
+        "central_portugal"
+    ],
+    "group404": [
+        "trade_relations",
+        "higher_court",
+        "unep"
+    ],
+    "group405": [
+        "leaf_vegetable",
+        "baden-w??rttemberg",
+        "plant_health_product",
+        "personal_effects"
+    ],
+    "group406": [
+        "honour",
+        "primary_education",
+        "foreign_trade",
+        "cocoa"
+    ],
+    "group407": [
+        "dependant",
+        "joint_position",
+        "budget_authorisation",
+        "law_of_obligations"
+    ],
+    "group408": [
+        "chromium",
+        "agricultural_expenditure",
+        "road_transport"
+    ],
+    "group409": [
+        "scotland",
+        "former_ussr",
+        "financial_analysis",
+        "financial_equalisation"
+    ],
+    "group41": [
+        "olive",
+        "legal_action",
+        "oligopoly",
+        "community_recommendation"
+    ],
+    "group410": [
+        "metal_product",
+        "acp-ec_joint_committee",
+        "free-trade_agreement",
+        "horsemeat"
+    ],
+    "group411": [
+        "government_bill",
+        "camping",
+        "residence",
+        "physical_process"
+    ],
+    "group412": [
+        "retroactivity_of_a_law",
+        "consolidated_account",
+        "fixing_of_prices"
+    ],
+    "group413": [
+        "cable_transport",
+        "full_employment",
+        "plant_resources",
+        "clean_technology"
+    ],
+    "group414": [
+        "grassland",
+        "economic_recession",
+        "ecsc",
+        "ore_processing"
+    ],
+    "group415": [
+        "new_community_instrument",
+        "quantity_of_fish_landed",
+        "drug_surveillance",
+        "barley"
+    ],
+    "group416": [
+        "cadmium",
+        "hoisting_equipment",
+        "education_grant"
+    ],
+    "group417": [
+        "foreign_investment",
+        "decorative_item",
+        "third_country",
+        "special_procedure"
+    ],
+    "group418": [
+        "egg_product",
+        "organic_acid",
+        "european_charter"
+    ],
+    "group419": [
+        "short-term_economic_prospects",
+        "crime",
+        "european_investment_fund",
+        "cattle"
+    ],
+    "group42": [
+        "inflammable_product",
+        "transport_of_patients",
+        "sport_fishing",
+        "conifer"
+    ],
+    "group420": [
+        "building_industry",
+        "farm_modernisation",
+        "sri_lanka"
+    ],
+    "group421": [
+        "stability_pact",
+        "stabex",
+        "electromagnetic_interference",
+        "sponsorship"
+    ],
+    "group422": [
+        "economic_planning",
+        "mineral_compound",
+        "technical_standard",
+        "price_list"
+    ],
+    "group423": [
+        "deportation",
+        "afghanistan",
+        "rabies",
+        "public_limited_company"
+    ],
+    "group424": [
+        "special_education",
+        "sports_equipment",
+        "speed_control"
+    ],
+    "group425": [
+        "integration_of_the_disabled",
+        "tourism_statistics",
+        "position_of_women",
+        "bse"
+    ],
+    "group426": [
+        "structural_expenditure",
+        "diploma",
+        "economic_recovery",
+        "specialisation_agreement"
+    ],
+    "group427": [
+        "fresh_meat",
+        "technological_change",
+        "miscellaneous_industries",
+        "law_of_the_sea"
+    ],
+    "group428": [
+        "macao",
+        "teaching_materials",
+        "culture_industry"
+    ],
+    "group429": [
+        "trade_agreement",
+        "transport_price",
+        "nuclear_energy",
+        "balearic_islands"
+    ],
+    "group43": [
+        "north_holland",
+        "international_conflict",
+        "comoros",
+        "algarve"
+    ],
+    "group430": [
+        "freedom_of_movement",
+        "special_tax",
+        "tractor",
+        "spirits"
+    ],
+    "group431": [
+        "traceability",
+        "spectrometry",
+        "government",
+        "guinea-bissau"
+    ],
+    "group432": [
+        "oceania",
+        "judgment_of_the_ec_court",
+        "plasma_physics"
+    ],
+    "group433": [
+        "tariff_agreement",
+        "budgetary_procedure",
+        "forensic_medicine",
+        "co-determination"
+    ],
+    "group434": [
+        "forestry_holding",
+        "regional_disparity",
+        "artistic_profession",
+        "highway_code"
+    ],
+    "group435": [
+        "capacity_to_exercise_rights",
+        "ec_regulation",
+        "telephone",
+        "jordan"
+    ],
+    "group436": [
+        "library",
+        "molasses",
+        "freedom_of_trade"
+    ],
+    "group437": [
+        "production_aid",
+        "fishing_rights",
+        "social_survey",
+        "petroleum_exploration"
+    ],
+    "group438": [
+        "european_forestry_policy",
+        "european_employment_strategy",
+        "adhesive",
+        "physical_education"
+    ],
+    "group439": [
+        "right_to_vote",
+        "technical_specification",
+        "space_policy",
+        "apiculture"
+    ],
+    "group44": [
+        "cultural_event",
+        "trafficking_in_persons",
+        "copper"
+    ],
+    "group440": [
+        "timor",
+        "family_migration",
+        "diesel_fuel"
+    ],
+    "group441": [
+        "pharmaceutical_legislation",
+        "grubbing_premium",
+        "financial_aid",
+        "codification_of_community_law"
+    ],
+    "group442": [
+        "buffalo_meat",
+        "metal_furniture",
+        "german_democratic_republic",
+        "community_plant_variety_office"
+    ],
+    "group443": [
+        "advanced_technology_industry",
+        "carcass",
+        "auction_sale",
+        "joint_action"
+    ],
+    "group444": [
+        "information_medium",
+        "quasi-fiscal_charge",
+        "power_of_attorney"
+    ],
+    "group445": [
+        "customs_union",
+        "ec_standing_committee",
+        "citizen-authority_relations",
+        "civil_servant"
+    ],
+    "group446": [
+        "rice",
+        "right_of_asylum",
+        "price_disparity",
+        "community_legal_system"
+    ],
+    "group447": [
+        "management",
+        "former_gdr",
+        "ec_association_agreement",
+        "management_accounting"
+    ],
+    "group448": [
+        "cassava",
+        "republic_of_moldova",
+        "homeopathic_product"
+    ],
+    "group449": [
+        "subsidiary",
+        "cif_price",
+        "canary_islands",
+        "unification_of_germany"
+    ],
+    "group45": [
+        "international_sanctions",
+        "coordination_of_financing",
+        "pharmaceutical_expenses",
+        "sucrose"
+    ],
+    "group450": [
+        "higher_education",
+        "measure_having_equivalent_effect",
+        "financial_interests_of_members"
+    ],
+    "group451": [
+        "additional_benefit",
+        "humanitarian_aid",
+        "constitutional_law",
+        "maternity_benefit"
+    ],
+    "group452": [
+        "data_transmission",
+        "european_monetary_agreement",
+        "social_services"
+    ],
+    "group453": [
+        "european_election",
+        "borrowing",
+        "marine_mammal",
+        "financing_level"
+    ],
+    "group454": [
+        "production_control",
+        "new_product",
+        "powers_of_the_ep",
+        "ec_competition"
+    ],
+    "group455": [
+        "banking",
+        "institutional_activity",
+        "transport_of_animals",
+        "household_article"
+    ],
+    "group456": [
+        "irish_sea",
+        "official_document",
+        "free_movement_of_persons"
+    ],
+    "group457": [
+        "european_parliament",
+        "national_minority",
+        "rioja",
+        "budget_deficit"
+    ],
+    "group458": [
+        "storage_cost",
+        "new_caledonia",
+        "surinam",
+        "university"
+    ],
+    "group459": [
+        "community_industrial_policy",
+        "sunflower",
+        "lower_normandy",
+        "blood_transfusion"
+    ],
+    "group46": [
+        "cessation_of_trading",
+        "nuclear_technology",
+        "rhine_valley",
+        "postal_and_telecommunications_services"
+    ],
+    "group460": [
+        "soft_energy",
+        "investment_loan",
+        "industrial_hazard"
+    ],
+    "group461": [
+        "confiscation_of_property",
+        "shareholder",
+        "joint_subsidiary",
+        "investment_promotion"
+    ],
+    "group462": [
+        "leinster",
+        "bio-ethics",
+        "plant_disease",
+        "international_economic_law"
+    ],
+    "group463": [
+        "aid_per_hectare",
+        "ecuador",
+        "regions_of_ireland",
+        "promotion"
+    ],
+    "group464": [
+        "agri-foodstuffs",
+        "road_network",
+        "evaluation_of_resources"
+    ],
+    "group465": [
+        "burundi",
+        "agricultural_education",
+        "crustacean",
+        "free_service"
+    ],
+    "group466": [
+        "7986.0",
+        "evidence",
+        "merchant",
+        "international_arbitration"
+    ],
+    "group467": [
+        "province_of_luxembourg",
+        "agricultural_region",
+        "restrictive_trade_practice",
+        "duties_of_civil_servants"
+    ],
+    "group468": [
+        "motherhood",
+        "export_refund",
+        "ec_mediterranean_region"
+    ],
+    "group469": [
+        "agro-industry",
+        "ec_intergovernmental_cooperation",
+        "document",
+        "foodstuff"
+    ],
+    "group47": [
+        "cfsp",
+        "tariff_preference",
+        "pay_scale",
+        "publication_of_accounts"
+    ],
+    "group470": [
+        "ussr",
+        "european_university_institute_of_florence",
+        "public_order",
+        "european_undertaking"
+    ],
+    "group471": [
+        "djibouti",
+        "legislative_procedure",
+        "province_of_east_flanders",
+        "province_of_antwerp"
+    ],
+    "group472": [
+        "tax_relief",
+        "regional_statistics",
+        "protective_equipment"
+    ],
+    "group473": [
+        "farming_system",
+        "domestic_animal",
+        "fifg",
+        "administrative_transparency"
+    ],
+    "group474": [
+        "agricultural_machinery",
+        "motor_vehicle_pollution",
+        "air_law",
+        "ec_administrative_expenditure"
+    ],
+    "group475": [
+        "seed",
+        "bulk_product",
+        "legal_proceedings",
+        "milk_fat"
+    ],
+    "group476": [
+        "forestry_development",
+        "food_policy",
+        "fishing_industry"
+    ],
+    "group477": [
+        "supplementary_financing",
+        "radioactivity",
+        "radio_equipment",
+        "agricultural_levy"
+    ],
+    "group478": [
+        "plant_propagation",
+        "migration",
+        "motor_spirit",
+        "chemical_pollution"
+    ],
+    "group479": [
+        "health_statistics",
+        "disarmament",
+        "fertiliser",
+        "female_unemployment"
+    ],
+    "group48": [
+        "price_fixed_in_advance",
+        "administration_of_the_institutions",
+        "floriculture"
+    ],
+    "group480": [
+        "audit",
+        "lebanon",
+        "catalonia"
+    ],
+    "group481": [
+        "operating_result",
+        "property_leasing",
+        "agronomic_research",
+        "co-insurance"
+    ],
+    "group482": [
+        "motor_fuel",
+        "cruel_and_degrading_treatment",
+        "cultivation_techniques"
+    ],
+    "group483": [
+        "food_safety",
+        "small_and_medium-sized_enterprises",
+        "agricultural_census",
+        "political_reform"
+    ],
+    "group484": [
+        "social_rights",
+        "province_of_namur",
+        "town"
+    ],
+    "group485": [
+        "corruption",
+        "eutrophication",
+        "overseas_territory",
+        "panama"
+    ],
+    "group486": [
+        "issue_of_securities",
+        "ec_interim_agreement",
+        "artificial_insemination",
+        "return_migration"
+    ],
+    "group487": [
+        "evaluation_method",
+        "agricultural_policy",
+        "educational_administration",
+        "european_union_membership"
+    ],
+    "group488": [
+        "group_of_companies",
+        "glass_industry",
+        "agricultural_vehicle"
+    ],
+    "group489": [
+        "police_cooperation",
+        "means_of_public_conveyance",
+        "ecsc_aid",
+        "non-durable_goods"
+    ],
+    "group49": [
+        "action_programme",
+        "seychelles",
+        "european_monitoring_centre_on_racism_and_xenophobia",
+        "industrial_policy"
+    ],
+    "group490": [
+        "policy_on_agricultural_structures",
+        "police_checks",
+        "freshwater_fish",
+        "stratospheric_pollution"
+    ],
+    "group491": [
+        "lisbon_and_the_tagus_valley",
+        "pluralism_in_the_media",
+        "programmes_industry",
+        "programming_language"
+    ],
+    "group492": [
+        "scientific_progress",
+        "financial_loss",
+        "uruguay_round"
+    ],
+    "group493": [
+        "contagious_disease",
+        "mountain_region",
+        "uno",
+        "social_cost"
+    ],
+    "group494": [
+        "public_stock",
+        "regional_development",
+        "advance_payment",
+        "political_party"
+    ],
+    "group495": [
+        "packaging",
+        "political_cooperation",
+        "nieder??sterreich",
+        "technology_transfer"
+    ],
+    "group496": [
+        "personnel_management",
+        "social_adjustment",
+        "social-security_benefit"
+    ],
+    "group497": [
+        "signalling_device",
+        "pohjois-suomi",
+        "live_poultry",
+        "trade_cooperation"
+    ],
+    "group498": [
+        "food_industry",
+        "social_rehabilitation",
+        "agricultural_holding",
+        "regional_cooperation"
+    ],
+    "group499": [
+        "frontier_region",
+        "literature",
+        "rules_of_procedure",
+        "europeche"
+    ],
+    "group5": [
+        "small_industry",
+        "fish",
+        "museum",
+        "observation"
+    ],
+    "group50": [
+        "health_certificate",
+        "aetr_agreement",
+        "ethics",
+        "price_fluctuation"
+    ],
+    "group500": [
+        "political_asylum",
+        "sodium",
+        "french_guiana"
+    ],
+    "group501": [
+        "administrative_unit",
+        "community_loan",
+        "digitisation",
+        "flavouring"
+    ],
+    "group502": [
+        "delivery",
+        "consumption_expenditure",
+        "publication_of_a_law",
+        "mechanical_engineering"
+    ],
+    "group503": [
+        "age_of_majority",
+        "european_central_bank",
+        "microorganism",
+        "eritrea"
+    ],
+    "group504": [
+        "transport_company",
+        "financial_policy",
+        "cheque"
+    ],
+    "group505": [
+        "child_care",
+        "ecsc_loan",
+        "tourist_region",
+        "uganda"
+    ],
+    "group506": [
+        "member_of_the_ec_court_of_auditors",
+        "inland_waters",
+        "social_development",
+        "sea_fishing"
+    ],
+    "group507": [
+        "school_environment",
+        "monetary_policy",
+        "mining_operation",
+        "legal_hearing"
+    ],
+    "group508": [
+        "mass_media",
+        "shipbuilding",
+        "military_intervention"
+    ],
+    "group509": [
+        "primary_sector",
+        "ahvenanmaa",
+        "limousin",
+        "inland_waterway_transport"
+    ],
+    "group51": [
+        "decision-making",
+        "decentralisation",
+        "competition_policy",
+        "debt_reduction"
+    ],
+    "group510": [
+        "inland_waterway_shipping",
+        "inland_waterway",
+        "control_of_restrictive_practices",
+        "price_index"
+    ],
+    "group511": [
+        "sierra_leone",
+        "plastics",
+        "simplification_of_legislation",
+        "right_to_justice"
+    ],
+    "group512": [
+        "national_tax",
+        "accession_to_the_european_union",
+        "nato"
+    ],
+    "group513": [
+        "natural_gas",
+        "hooliganism",
+        "european_economic_area",
+        "ports_policy"
+    ],
+    "group514": [
+        "industrial_concentration",
+        "regions_of_france",
+        "direct_investment"
+    ],
+    "group515": [
+        "life_assurance",
+        "joinery",
+        "least-developed_country",
+        "information_storage_and_retrieval"
+    ],
+    "group516": [
+        "third-party_insurance",
+        "terminology",
+        "pakistan"
+    ],
+    "group517": [
+        "monetary_compensatory_amount",
+        "paediatrics",
+        "budget_appropriation",
+        "farm_accountancy_data_network"
+    ],
+    "group518": [
+        "benelux",
+        "socio-cultural_facilities",
+        "cross-border_cooperation",
+        "pollution_from_ships"
+    ],
+    "group519": [
+        "south_america",
+        "fraud",
+        "ioe",
+        "audio-visual_piracy"
+    ],
+    "group52": [
+        "east_anglia",
+        "administrative_sanction",
+        "quality_of_the_environment"
+    ],
+    "group520": [
+        "national_implementing_measure",
+        "railway_tariff",
+        "transportation_tariff"
+    ],
+    "group521": [
+        "education_statistics",
+        "economic_priority",
+        "economic_support",
+        "european_party"
+    ],
+    "group522": [
+        "operating_cost",
+        "ghana",
+        "gabon",
+        "budget_policy"
+    ],
+    "group523": [
+        "adriatic_sea",
+        "travel_agency",
+        "poitou-charentes",
+        "accounting_entry"
+    ],
+    "group524": [
+        "plant_health_legislation",
+        "nutrition",
+        "guide_price"
+    ],
+    "group525": [
+        "east_midlands",
+        "guaranteed_price",
+        "marine_pollution",
+        "eu_judicial_cooperation"
+    ],
+    "group526": [
+        "non-profit_organisation",
+        "nuisance",
+        "intermediate_goods",
+        "pharmaceutical_industry"
+    ],
+    "group527": [
+        "life_expectancy",
+        "exclusive_economic_zone",
+        "european_passport",
+        "joint_committee_on_ec_matters"
+    ],
+    "group528": [
+        "suspension_of_payments",
+        "agricultural_quota",
+        "eib_loan"
+    ],
+    "group529": [
+        "economic_reconstruction",
+        "economic_relations",
+        "database",
+        "papua_new_guinea"
+    ],
+    "group53": [
+        "fishery_produce",
+        "radiation_protection",
+        "dac",
+        "coordination_of_emu_policies"
+    ],
+    "group530": [
+        "monitoring_of_exports",
+        "money_laundering",
+        "directive"
+    ],
+    "group531": [
+        "mongolia",
+        "money_market",
+        "disabled_person",
+        "semi-manufactured_goods"
+    ],
+    "group532": [
+        "tunisia",
+        "recognition_of_studies",
+        "refusal_to_supply"
+    ],
+    "group533": [
+        "trade_restriction",
+        "trade_statistics",
+        "territorial_jurisdiction",
+        "antigua_and_barbuda"
+    ],
+    "group534": [
+        "road_services_department",
+        "climate",
+        "statute_for_the_members_of_the_european_parliament",
+        "member_of_the_ec_court_of_justice"
+    ],
+    "group535": [
+        "animal_tuberculosis",
+        "claim",
+        "mental_health",
+        "nuclear_fission"
+    ],
+    "group536": [
+        "rights_of_the_individual",
+        "chemical_alcohol",
+        "european_arms_policy"
+    ],
+    "group537": [
+        "teaching_curriculum",
+        "administrative_structures",
+        "\"producers_liability\"",
+        "soil_protection"
+    ],
+    "group538": [
+        "exclusive_distribution_agreement",
+        "health_legislation",
+        "orphan",
+        "patent"
+    ],
+    "group539": [
+        "technical_cooperation",
+        "tax_on_employment_income",
+        "temporary_admission",
+        "energy_storage"
+    ],
+    "group54": [
+        "health_care_profession",
+        "communications_policy",
+        "public_safety",
+        "market_approval"
+    ],
+    "group540": [
+        "state_of_emergency",
+        "statistics",
+        "region"
+    ],
+    "group541": [
+        "statistical_method",
+        "petroleum_product",
+        "state_aid",
+        "economic_stabilisation"
+    ],
+    "group542": [
+        "organ_transplant",
+        "database_management_system",
+        "member_of_parliament",
+        "french_polynesia"
+    ],
+    "group543": [
+        "member_country",
+        "recording",
+        "manufactured_goods",
+        "plywood"
+    ],
+    "group544": [
+        "animal_health",
+        "occupational_disease",
+        "self-supply"
+    ],
+    "group545": [
+        "stratospheric_pollutant",
+        "administrative_reform",
+        "living_plant",
+        "international_affairs"
+    ],
+    "group546": [
+        "freight_rate",
+        "inshore_fishing",
+        "quality_control_of_industrial_products"
+    ],
+    "group547": [
+        "job_preservation",
+        "liberalisation_of_the_market",
+        "aerospace_industry",
+        "institutional_structure"
+    ],
+    "group548": [
+        "chemical_element",
+        "upper_normandy",
+        "development_policy"
+    ],
+    "group549": [
+        "ebrd",
+        "protection_of_animals",
+        "north_korea",
+        "capital_movement"
+    ],
+    "group55": [
+        "health_insurance",
+        "rail_network",
+        "netherlands",
+        "price_of_land"
+    ],
+    "group550": [
+        "final_consumption",
+        "systems_interconnection",
+        "technical_regulations",
+        "pollutant"
+    ],
+    "group551": [
+        "household",
+        "support_mechanism",
+        "preparation_for_market",
+        "computer_terminal"
+    ],
+    "group552": [
+        "environmental_standard",
+        "transnational_corporation",
+        "aid_for_restructuring"
+    ],
+    "group553": [
+        "health_costs",
+        "meslin",
+        "foodstuffs_legislation",
+        "sectoral_aid"
+    ],
+    "group554": [
+        "protection_of_shareholders",
+        "ec_commission",
+        "elective_office",
+        "mali"
+    ],
+    "group555": [
+        "organisation_of_work",
+        "information_profession",
+        "arms_control",
+        "antibiotic"
+    ],
+    "group556": [
+        "un_security_council",
+        "fishing_regulations",
+        "centre"
+    ],
+    "group557": [
+        "teaching_method",
+        "tax-free_allowance",
+        "high_representative_for_the_cfsp",
+        "production_surplus"
+    ],
+    "group558": [
+        "seedling",
+        "fire_protection",
+        "financial_compensation_of_an_agreement",
+        "nuclear_fusion"
+    ],
+    "group559": [
+        "semi-metal",
+        "aid_to_agriculture",
+        "therapeutics",
+        "economic_concentration"
+    ],
+    "group56": [
+        "aquaculture",
+        "dairy_industry",
+        "aeronautical_industry"
+    ],
+    "group560": [
+        "nord-pas-de-calais",
+        "bavaria",
+        "dominica"
+    ],
+    "group561": [
+        "financing",
+        "agricultural_real_estate",
+        "suspension_of_aid",
+        "dataprocessing"
+    ],
+    "group562": [
+        "plant_variety_right",
+        "equality_between_men_and_women",
+        "musical_instrument",
+        "enzyme"
+    ],
+    "group563": [
+        "hazardous_waste",
+        "ec_court_of_first_instance",
+        "physically_disabled",
+        "archives"
+    ],
+    "group564": [
+        "social_behaviour",
+        "environmental_tax",
+        "cantabria"
+    ],
+    "group565": [
+        "remote_sensing",
+        "south_holland",
+        "jha",
+        "economic_analysis"
+    ],
+    "group566": [
+        "energy_use",
+        "discount_sale",
+        "administrative_formalities",
+        "marketing_restriction"
+    ],
+    "group567": [
+        "national_planning",
+        "ecosoc",
+        "nuclear_weapon",
+        "mathematics"
+    ],
+    "group568": [
+        "environmental_protection",
+        "universal_suffrage",
+        "civil_status"
+    ],
+    "group569": [
+        "united_states",
+        "international_relations",
+        "tax",
+        "eures"
+    ],
+    "group57": [
+        "freedom_of_the_press",
+        "east_timor",
+        "beer",
+        "ec_opinion"
+    ],
+    "group570": [
+        "price_of_energy",
+        "shortage",
+        "shipping_policy",
+        "import_refund"
+    ],
+    "group571": [
+        "machinery",
+        "thuringia",
+        "guaranteed_minimum_price",
+        "translation"
+    ],
+    "group572": [
+        "urbanisation",
+        "table_wine",
+        "updating_of_skills"
+    ],
+    "group573": [
+        "architectural_heritage",
+        "exchange_restriction",
+        "natural_disaster",
+        "medium-term_financial_assistance"
+    ],
+    "group574": [
+        "certificate_of_origin",
+        "loss",
+        "raw_chemical_industry",
+        "intervention_buying"
+    ],
+    "group575": [
+        "belarus",
+        "san_marino",
+        "racial_discrimination",
+        "\"childrens_rights\""
+    ],
+    "group576": [
+        "scientific_profession",
+        "social_impact",
+        "basic_research"
+    ],
+    "group577": [
+        "re-import",
+        "france",
+        "framework_agreement",
+        "health_policy"
+    ],
+    "group578": [
+        "saint_christopher_and_nevis",
+        "financial_control",
+        "financing_policy"
+    ],
+    "group579": [
+        "deep-frozen_product",
+        "albania",
+        "olympic_games",
+        "basis_of_tax_assessment"
+    ],
+    "group58": [
+        "codecision_procedure",
+        "pay_television",
+        "environmental_research",
+        "economic_statistics"
+    ],
+    "group580": [
+        "dna",
+        "auditing",
+        "interpol"
+    ],
+    "group581": [
+        "national_law",
+        "computer_crime",
+        "computer_system",
+        "aircraft_fleet"
+    ],
+    "group582": [
+        "peru",
+        "alpine_region",
+        "financial_year",
+        "nuclear_reactor"
+    ],
+    "group583": [
+        "bank",
+        "additional_duty",
+        "area_of_holding",
+        "distance_selling"
+    ],
+    "group584": [
+        "mozambique",
+        "glasshouse_cultivation",
+        "electric_cable"
+    ],
+    "group585": [
+        "student_mobility",
+        "corporation_tax",
+        "subsidised_housing",
+        "community_legislative_programme"
+    ],
+    "group586": [
+        "own-account_transport",
+        "own_resources",
+        "ordinance",
+        "limburg"
+    ],
+    "group587": [
+        "orchard",
+        "surveillance_concerning_imports",
+        "ownership",
+        "organic_product"
+    ],
+    "group588": [
+        "live_animal",
+        "lithuania",
+        "nuclear_power_station"
+    ],
+    "group589": [
+        "distance_learning",
+        "european_council",
+        "pesticide_residue",
+        "consumer_goods"
+    ],
+    "group59": [
+        "bank_deposit",
+        "tajikistan",
+        "inflation",
+        "poultry_farming"
+    ],
+    "group590": [
+        "accession_to_an_agreement",
+        "import_policy",
+        "cambodia",
+        "littoral"
+    ],
+    "group591": [
+        "cultural_heritage",
+        "surplus_stock",
+        "geographical_distribution_of_the_population",
+        "cept"
+    ],
+    "group592": [
+        "printer",
+        "luxembourg",
+        "fine_arts"
+    ],
+    "group593": [
+        "financing_method",
+        "traditional_technology",
+        "pupil",
+        "andean_group"
+    ],
+    "group594": [
+        "town_and_country_planning",
+        "regions_of_italy",
+        "labour_force",
+        "democracy"
+    ],
+    "group595": [
+        "bosnia-herzegovina",
+        "purchase_price",
+        "financial_statistics",
+        "qualitative_analysis"
+    ],
+    "group596": [
+        "electronic_banking",
+        "maritime_safety",
+        "financial_planning"
+    ],
+    "group597": [
+        "firm_governed_by_commercial_law",
+        "angola",
+        "andalusia",
+        "leisure_park"
+    ],
+    "group598": [
+        "customs_harmonisation",
+        "non-proliferation_of_arms",
+        "means_of_agricultural_production",
+        "translation_centre_for_the_bodies_of_the_european_union"
+    ],
+    "group599": [
+        "financial_protocol",
+        "production_policy",
+        "ordinary_court_of_law",
+        "organisation_of_teaching"
+    ],
+    "group6": [
+        "parental_leave",
+        "biogas",
+        "parasitology",
+        "commodity_agreement"
+    ],
+    "group60": [
+        "social_change",
+        "corsica",
+        "botswana"
+    ],
+    "group600": [
+        "fine",
+        "firearms_and_munitions",
+        "annual_report"
+    ],
+    "group601": [
+        "financial_transaction",
+        "animal_disease",
+        "trading_operation",
+        "transport_quota"
+    ],
+    "group602": [
+        "traffic_regulations",
+        "living_conditions",
+        "organic_pollution",
+        "madagascar"
+    ],
+    "group603": [
+        "disc_drive",
+        "geographical_distribution",
+        "prevention_of_delinquency",
+        "gypsy"
+    ],
+    "group604": [
+        "cease-fire",
+        "animal_fats",
+        "european_agency_for_reconstruction"
+    ],
+    "group605": [
+        "machine_tool",
+        "vegetable",
+        "concentrated_product",
+        "electronic_device"
+    ],
+    "group606": [
+        "solar_energy",
+        "financial_regulation",
+        "interactivity",
+        "iran"
+    ],
+    "group607": [
+        "substitute_fuel",
+        "fresh_vegetable",
+        "private_international_law",
+        "european_cultural_event"
+    ],
+    "group608": [
+        "gaming",
+        "champagne",
+        "older_worker"
+    ],
+    "group609": [
+        "economic_region",
+        "staff",
+        "discriminatory_price",
+        "madeira"
+    ],
+    "group61": [
+        "conservation_of_fish_stocks",
+        "chemical_compound",
+        "redemption",
+        "customs_valuation"
+    ],
+    "group610": [
+        "alcoholic_beverage",
+        "product_quality",
+        "form"
+    ],
+    "group611": [
+        "berlin",
+        "bus",
+        "aid_system",
+        "eea_joint_parliamentary_committee"
+    ],
+    "group612": [
+        "forestry_research",
+        "germany",
+        "marine_insurance"
+    ],
+    "group613": [
+        "apparatus_based_on_the_use_of_rays",
+        "tunnel",
+        "migrant",
+        "early_childhood"
+    ],
+    "group614": [
+        "agricultural_building",
+        "agricultural_economics",
+        "fishing_fleet",
+        "dried_product"
+    ],
+    "group615": [
+        "loire_region",
+        "power_of_implementation",
+        "building_subsidy",
+        "lubricants"
+    ],
+    "group616": [
+        "budget",
+        "competition",
+        "brussels_region"
+    ],
+    "group617": [
+        "polishing_and_scouring_preparations",
+        "plumbing_equipment",
+        "private-sector_liquidity",
+        "prisoner"
+    ],
+    "group618": [
+        "competition_law",
+        "brucellosis",
+        "community_trademark_office",
+        "personal_property"
+    ],
+    "group619": [
+        "unemployment_insurance",
+        "sugar_cane",
+        "manufactured_feedingstuffs",
+        "inter-professional_agreement"
+    ],
+    "group62": [
+        "securities",
+        "sectoral_planning",
+        "emergency_aid",
+        "ethnic_group"
+    ],
+    "group620": [
+        "arms_limitation",
+        "advertising",
+        "customs_procedure_suspending_duties"
+    ],
+    "group621": [
+        "international_conference",
+        "free_education",
+        "carpet",
+        "far_east"
+    ],
+    "group622": [
+        "economic_reform",
+        "broker",
+        "police",
+        "eu_institution"
+    ],
+    "group623": [
+        "commercial_vehicle",
+        "poland",
+        "tanzania",
+        "private_ecu"
+    ],
+    "group624": [
+        "ballistic_missile",
+        "travel",
+        "singapore"
+    ],
+    "group625": [
+        "food_substitute",
+        "marriage",
+        "nuclear_industry",
+        "fuel_reprocessing"
+    ],
+    "group626": [
+        "tourist_profession",
+        "dairy_farm",
+        "customs_regulations",
+        "foreign_enterprise"
+    ],
+    "group627": [
+        "new_zealand",
+        "social_analysis",
+        "private_bank",
+        "single_document"
+    ],
+    "group628": [
+        "impact_study",
+        "socially_disadvantaged_class",
+        "trentino-alto_adige"
+    ],
+    "group629": [
+        "electrical_equipment",
+        "humanisation_of_work",
+        "centralisation_of_information",
+        "bulgaria"
+    ],
+    "group63": [
+        "environmental_impact",
+        "industrial_statistics",
+        "free-on-board_price",
+        "fishing_vessel"
+    ],
+    "group630": [
+        "hops",
+        "direct_tax",
+        "committee_of_the_regions",
+        "man-made_fibre"
+    ],
+    "group631": [
+        "electro-magnetic_equipment",
+        "application_of_legislation",
+        "passport",
+        "management_techniques"
+    ],
+    "group632": [
+        "participation_of_women",
+        "project_of_community_interest",
+        "artificial_reproductive_techniques"
+    ],
+    "group633": [
+        "accounting_system",
+        "party_financing",
+        "sluice-gate_price",
+        "sculpture"
+    ],
+    "group634": [
+        "partnership",
+        "commodities_exchange",
+        "non-tariff_barrier",
+        "hospitalisation"
+    ],
+    "group635": [
+        "pasta",
+        "artistic_creation",
+        "transport_safety",
+        "european_accounting_system"
+    ],
+    "group636": [
+        "chile",
+        "artificial_food_colouring",
+        "child_protection"
+    ],
+    "group637": [
+        "electricity_storage_device",
+        "amendment",
+        "parking_area",
+        "money"
+    ],
+    "group638": [
+        "inward_processing",
+        "european_industrial_area",
+        "transport_statistics",
+        "transport_staff"
+    ],
+    "group639": [
+        "transport_regulations",
+        "simplification_of_formalities",
+        "capital_goods",
+        "civil_law"
+    ],
+    "group64": [
+        "complaint_to_the_commission",
+        "international_meeting",
+        "dissemination_of_culture"
+    ],
+    "group640": [
+        "sales_promotion",
+        "eec_treaty",
+        "anti-discriminatory_measure"
+    ],
+    "group641": [
+        "desertification",
+        "primary_product",
+        "traineeship",
+        "personal_data"
+    ],
+    "group642": [
+        "oecd_countries",
+        "office_equipment",
+        "industrial_counterfeiting"
+    ],
+    "group643": [
+        "legal_code",
+        "coordination_of_aid",
+        "overseas_countries_and_territories",
+        "labour_mobility"
+    ],
+    "group644": [
+        "cost",
+        "egg",
+        "lighting"
+    ],
+    "group645": [
+        "liechtenstein",
+        "educational_exchange",
+        "sports_facilities",
+        "semi-soft_cheese"
+    ],
+    "group646": [
+        "dyestuffs_industry",
+        "handicrafts",
+        "chemical_weapon",
+        "ec_recommendation"
+    ],
+    "group647": [
+        "confidentiality",
+        "eaggf_guarantee_section",
+        "professional_career",
+        "calcium"
+    ],
+    "group648": [
+        "sunflower_seed_oil",
+        "food_colouring",
+        "aid_to_industry"
+    ],
+    "group649": [
+        "aid_to_refugees",
+        "air_safety",
+        "liguria",
+        "cellulose"
+    ],
+    "group65": [
+        "5641.0",
+        "2164.0",
+        "euro_area",
+        "ecac"
+    ],
+    "group650": [
+        "technical_rule",
+        "tax_on_profits_of_self-employment",
+        "aids",
+        "community_production"
+    ],
+    "group651": [
+        "taxable_income",
+        "tax_on_investment_income",
+        "aid_to_disaster_victims",
+        "aid_to_undertakings"
+    ],
+    "group652": [
+        "food_additive",
+        "air_conditioning",
+        "energy_saving"
+    ],
+    "group653": [
+        "regionalisation",
+        "technology",
+        "transport_planning",
+        "child"
+    ],
+    "group654": [
+        "aid_to_disadvantaged_groups",
+        "air_freight_rate",
+        "supplier",
+        "fur-bearing_animal"
+    ],
+    "group655": [
+        "ticket",
+        "durum_wheat",
+        "allowances_and_expenses",
+        "energy-generating_product"
+    ],
+    "group656": [
+        "parent_company",
+        "advisory_power",
+        "trade_regulations"
+    ],
+    "group657": [
+        "tariff_negotiations",
+        "information_service",
+        "trade_union_confederation",
+        "ec_operational_expenditure"
+    ],
+    "group658": [
+        "tariff_nomenclature",
+        "directory",
+        "\"jewellery_and_goldsmiths_articles\""
+    ],
+    "group659": [
+        "conciliation_procedure_(part_of_codecision_procedure)",
+        "disaffection_of_young_people",
+        "tax_convention",
+        "quantitative_analysis"
+    ],
+    "group66": [
+        "7954.0",
+        "additional_resources",
+        "pollution_from_land-based_sources"
+    ],
+    "group660": [
+        "state_trading",
+        "death_penalty",
+        "trade_promotion"
+    ],
+    "group661": [
+        "supply",
+        "real_property",
+        "trade_union",
+        "cancer"
+    ],
+    "group662": [
+        "record",
+        "military_research",
+        "information_technology_applications",
+        "tea"
+    ],
+    "group663": [
+        "budgetary_expenditure",
+        "cannery",
+        "abolition_of_customs_duties",
+        "nuclear_accident"
+    ],
+    "group664": [
+        "production",
+        "teaching_quality",
+        "civilian_victim"
+    ],
+    "group665": [
+        "candidate",
+        "tax_exemption",
+        "food_emulsifier",
+        "means_of_communication"
+    ],
+    "group666": [
+        "principle_of_additionality",
+        "implementation_of_the_budget",
+        "import",
+        "import_credit"
+    ],
+    "group667": [
+        "immigration",
+        "north_rhine-westphalia",
+        "invention",
+        "tanker"
+    ],
+    "group668": [
+        "audio-visual_programme",
+        "tariff_policy",
+        "biomass"
+    ],
+    "group669": [
+        "imo",
+        "prices",
+        "specialised_committee",
+        "disability_insurance"
+    ],
+    "group67": [
+        "eurojust",
+        "raw_milk",
+        "drugs_classification",
+        "debt"
+    ],
+    "group670": [
+        "teacher_training",
+        "north_america",
+        "coffee",
+        "cane_sugar"
+    ],
+    "group671": [
+        "insecticide",
+        "technical_ceramics",
+        "trademark_law",
+        "mobile_phone"
+    ],
+    "group672": [
+        "isoglucose",
+        "regions_of_spain",
+        "iron"
+    ],
+    "group673": [
+        "customs_cooperation",
+        "biochemistry",
+        "occupational_medicine",
+        "startup_business"
+    ],
+    "group674": [
+        "5759.0",
+        "perennial_vegetable",
+        "regions_of_portugal"
+    ],
+    "group675": [
+        "head_office",
+        "noise_level",
+        "transit",
+        "3485.0"
+    ],
+    "group676": [
+        "target_price",
+        "regions_of_greece",
+        "organic_fertiliser"
+    ],
+    "group677": [
+        "non-marketing_premium",
+        "judge",
+        "economic_and_social_cohesion",
+        "fortified_wine"
+    ],
+    "group678": [
+        "urban_transport",
+        "social_policy",
+        "president_of_the_commission",
+        "combined_nomenclature"
+    ],
+    "group679": [
+        "economic_conversion",
+        "illegal_migration",
+        "eu_council_presidency",
+        "sudan"
+    ],
+    "group68": [
+        "repression",
+        "settlement_of_disputes",
+        "severance_pay"
+    ],
+    "group680": [
+        "admission_of_aliens",
+        "piracy",
+        "alternate"
+    ],
+    "group681": [
+        "duplicating",
+        "drilling_equipment",
+        "congo",
+        "public_investment"
+    ],
+    "group682": [
+        "regulation_of_transactions",
+        "renewable_energy",
+        "production_cost",
+        "road_traffic"
+    ],
+    "group683": [
+        "coastal_region",
+        "telematics",
+        "tin",
+        "broadcasting"
+    ],
+    "group684": [
+        "carriage_of_goods",
+        "corporate_finance",
+        "beverage"
+    ],
+    "group685": [
+        "ec_technical_committee",
+        "european_conference",
+        "harmonisation_of_weapons",
+        "in-service_training"
+    ],
+    "group686": [
+        "preferential_price",
+        "mezzogiorno",
+        "health_control",
+        "food_consumption"
+    ],
+    "group687": [
+        "gambia",
+        "metalworking",
+        "rescheduling_of_public_debt",
+        "republic"
+    ],
+    "group688": [
+        "import_tax",
+        "economic_convergence",
+        "chemical_industry"
+    ],
+    "group689": [
+        "confectionery_product",
+        "drug_traffic",
+        "compensatory_financing",
+        "plantation"
+    ],
+    "group69": [
+        "7951.0",
+        "norway",
+        "charges_for_use_of_infrastructure",
+        "administrative_expenditure"
+    ],
+    "group690": [
+        "chemical_fertiliser",
+        "clearing_agreement",
+        "international_standard",
+        "inland_transport"
+    ],
+    "group691": [
+        "desiccated_product",
+        "european_social_policy",
+        "common_price_policy",
+        "anti-dumping_measure"
+    ],
+    "group692": [
+        "ethiopia",
+        "hill_farming",
+        "migration_control"
+    ],
+    "group693": [
+        "morocco",
+        "anti-dumping_duty",
+        "local_area_network",
+        "invisible_trade_balance"
+    ],
+    "group694": [
+        "community_research_policy",
+        "mining_industry",
+        "mayotte",
+        "large-scale_construction"
+    ],
+    "group695": [
+        "food_inspection",
+        "medical_examination",
+        "imposed_price",
+        "farm_animal"
+    ],
+    "group696": [
+        "allocation_of_land",
+        "electoral_fraud",
+        "pastry-making"
+    ],
+    "group697": [
+        "liberia",
+        "disease_vector",
+        "new_educational_methods",
+        "electrical_energy"
+    ],
+    "group698": [
+        "radioactive_waste",
+        "patent_law",
+        "tropical_wood",
+        "industrial_secret"
+    ],
+    "group699": [
+        "environmental_offence",
+        "power_to_appoint",
+        "tax_collection",
+        "latin_america"
+    ],
+    "group7": [
+        "motor_car",
+        "parliamentary_allowance",
+        "land_restructuring",
+        "support_tariff"
+    ],
+    "group70": [
+        "champagne-ardenne",
+        "equal_pay",
+        "confectionery",
+        "dredging"
+    ],
+    "group700": [
+        "market",
+        "iron_ore",
+        "textile_industry"
+    ],
+    "group701": [
+        "banking_policy",
+        "scientific_report",
+        "liability",
+        "basque_country"
+    ],
+    "group702": [
+        "meat_processing_industry",
+        "alcoholism",
+        "organisation_of_elections",
+        "accession_criteria"
+    ],
+    "group703": [
+        "art_trade",
+        "regional_culture",
+        "concessionnaire",
+        "ec_court_of_justice"
+    ],
+    "group704": [
+        "stockpiling_of_weapons",
+        "economic_system",
+        "tariff_reduction"
+    ],
+    "group705": [
+        "hydrology",
+        "cultural_organisation",
+        "raw_sugar",
+        "operational_expenditure"
+    ],
+    "group706": [
+        "cosmetics_industry",
+        "powdered_milk",
+        "access_to_community_information"
+    ],
+    "group707": [
+        "community_sanction",
+        "peaceful_use_of_energy",
+        "building_slab",
+        "swine"
+    ],
+    "group708": [
+        "colombia",
+        "job_application",
+        "collective_agreement"
+    ],
+    "group709": [
+        "stock",
+        "tax_law",
+        "industrial_development",
+        "stone_fruit"
+    ],
+    "group71": [
+        "professional_sport",
+        "optical_medium",
+        "representative_rate",
+        "continuing_vocational_training"
+    ],
+    "group710": [
+        "accounting",
+        "educational_guidance",
+        "south-east_asia",
+        "price_increase"
+    ],
+    "group711": [
+        "collective_dismissal",
+        "economics",
+        "retail_selling",
+        "public_debt"
+    ],
+    "group712": [
+        "community_sponsorship",
+        "producer_group",
+        "stock-exchange_listing"
+    ],
+    "group713": [
+        "regions_and_communities_of_belgium",
+        "tube",
+        "retired_person",
+        "cold_store"
+    ],
+    "group714": [
+        "construction_policy",
+        "stock_exchange",
+        "book_trade",
+        "kiribati"
+    ],
+    "group715": [
+        "globalisation",
+        "sexual_offence",
+        "7953.0",
+        "goatmeat"
+    ],
+    "group716": [
+        "\"valle_daosta\"",
+        "transport_capacity",
+        "advance"
+    ],
+    "group717": [
+        "equidae",
+        "illegal_restraint",
+        "identity_document",
+        "death"
+    ],
+    "group718": [
+        "assistance_in_training",
+        "arts",
+        "denaturing",
+        "engineer"
+    ],
+    "group719": [
+        "hungary",
+        "research_programme",
+        "economic_and_monetary_union",
+        "ecosystem"
+    ],
+    "group72": [
+        "self-regulation",
+        "icrc",
+        "rights_of_aliens"
+    ],
+    "group720": [
+        "noise_pollution",
+        "insurance_contract",
+        "comparative_analysis"
+    ],
+    "group721": [
+        "institutional_agreement",
+        "norm_price",
+        "flood",
+        "community_initiative"
+    ],
+    "group722": [
+        "sexual_violence",
+        "account",
+        "cacm",
+        "export_price"
+    ],
+    "group723": [
+        "export_licence",
+        "export_revenue",
+        "research",
+        "network_of_navigable_waterways"
+    ],
+    "group724": [
+        "medical_institution",
+        "cooperation_policy",
+        "ec_advisory_committee"
+    ],
+    "group725": [
+        "cooperation_agreement",
+        "legislative-executive_relations",
+        "baby_food",
+        "purchase"
+    ],
+    "group726": [
+        "electrical_industry",
+        "electrical_engineering",
+        "administrative_procedure",
+        "diplomatic_protection"
+    ],
+    "group727": [
+        "preferential_agreement",
+        "plaster",
+        "azerbaijan",
+        "economic_survey"
+    ],
+    "group728": [
+        "council_of_europe",
+        "single_european_act",
+        "sexual_harassment"
+    ],
+    "group729": [
+        "rubber_industry",
+        "research_and_development",
+        "eea_joint_committee",
+        "public_institution"
+    ],
+    "group73": [
+        "performing_arts",
+        "economic_integration",
+        "distribution_cost",
+        "customs_tariff"
+    ],
+    "group730": [
+        "computer_network",
+        "dental_medicine",
+        "adult_education",
+        "computer_equipment"
+    ],
+    "group731": [
+        "computer_applications",
+        "chemical_process",
+        "eaec_supply_agency",
+        "energy_audit"
+    ],
+    "group732": [
+        "trademark",
+        "community_of_madrid",
+        "industrial_cooperation"
+    ],
+    "group733": [
+        "community_national",
+        "r??union",
+        "community_migration_policy",
+        "competence_of_the_institution"
+    ],
+    "group734": [
+        "israel",
+        "natural_rubber",
+        "environmental_liability",
+        "social_integration"
+    ],
+    "group735": [
+        "right_of_establishment",
+        "margarine",
+        "european_community",
+        "european_commissioner"
+    ],
+    "group736": [
+        "cultural_prize",
+        "culture",
+        "commission_delegation"
+    ],
+    "group737": [
+        "energy_consumption",
+        "delegation_of_power",
+        "ilo",
+        "community_worker"
+    ],
+    "group738": [
+        "liquidity_control",
+        "by-catch",
+        "ec_monetary_committee"
+    ],
+    "group739": [
+        "agricultural_production",
+        "investment",
+        "agricultural_product_nomenclature",
+        "approximation_of_policies"
+    ],
+    "group74": [
+        "plate",
+        "occupational_physiology",
+        "stability_programme",
+        "community_environmental_policy"
+    ],
+    "group740": [
+        "uranium",
+        "regional_market",
+        "regional_planning"
+    ],
+    "group741": [
+        "nimexe",
+        "guatemala",
+        "labour_law",
+        "high-speed_transport"
+    ],
+    "group742": [
+        "economic_activity",
+        "irrigation",
+        "economic_sector",
+        "industrial_capital"
+    ],
+    "group743": [
+        "damages",
+        "household_electrical_appliance",
+        "office_supplies",
+        "office_for_harmonisation_in_the_internal_market"
+    ],
+    "group744": [
+        "bakery",
+        "electronics_industry",
+        "unemployment"
+    ],
+    "group745": [
+        "steiermark",
+        "micro-enterprise",
+        "statutory_power",
+        "transport_market"
+    ],
+    "group746": [
+        "computer_piracy",
+        "futures_market",
+        "phosphorus",
+        "freedom_of_self-determination"
+    ],
+    "group747": [
+        "energy_supply",
+        "cereals",
+        "supply_balance_sheet",
+        "prepared_foodstuff"
+    ],
+    "group748": [
+        "transport_law",
+        "cultural_policy",
+        "cultural_object"
+    ],
+    "group749": [
+        "community_decision",
+        "sheepmeat",
+        "schooling",
+        "fishery_resources"
+    ],
+    "group75": [
+        "storage_premium",
+        "photographic_industry",
+        "deep-sea_fishing",
+        "soft_cheese"
+    ],
+    "group750": [
+        "democratisation",
+        "development_region",
+        "human_relations",
+        "eating_habits"
+    ],
+    "group751": [
+        "ec_management_committee",
+        "community_law_-_national_law",
+        "buffer_stock",
+        "bird"
+    ],
+    "group752": [
+        "african_union",
+        "driving_mechanism",
+        "drainage"
+    ],
+    "group753": [
+        "urban_area",
+        "intervention_price",
+        "ecsc_recommendation",
+        "edm"
+    ],
+    "group754": [
+        "revision_of_an_agreement",
+        "port_administration",
+        "customs_debt",
+        "european_symbol"
+    ],
+    "group755": [
+        "occupational_accident",
+        "unpaid_work",
+        "universal_service",
+        "north_brabant"
+    ],
+    "group756": [
+        "pollution_control_measures",
+        "pollution_from_agricultural_sources",
+        "fodder"
+    ],
+    "group757": [
+        "energy_policy",
+        "administrative_control",
+        "research_results",
+        "administrative_measure"
+    ],
+    "group758": [
+        "maritime_transport",
+        "professional_association",
+        "designs_and_models",
+        "rail_transport"
+    ],
+    "group759": [
+        "food_contamination",
+        "trading_account",
+        "communications_systems",
+        "registered_trademark"
+    ],
+    "group76": [
+        "eaggf_guidance_section",
+        "public_expenditure",
+        "public_holiday"
+    ],
+    "group760": [
+        "public_finance",
+        "inclusive_tour",
+        "job_satisfaction"
+    ],
+    "group761": [
+        "income_in_addition_to_normal_pay",
+        "increase_in_production",
+        "sugar_product",
+        "\"member_states_contribution\""
+    ],
+    "group762": [
+        "indemnification",
+        "eu_police_cooperation",
+        "jurisdiction_of_the_courts",
+        "extraction_of_oil"
+    ],
+    "group763": [
+        "rare_gas",
+        "skimmed_milk_powder",
+        "genetically_modified_organism",
+        "gas_pipeline"
+    ],
+    "group764": [
+        "quality_of_life",
+        "community_financing_arrangements",
+        "sales_occupation"
+    ],
+    "group765": [
+        "sale",
+        "schengen_information_system",
+        "communications_industry",
+        "european_school"
+    ],
+    "group766": [
+        "tourism_policy",
+        "natural_fibre",
+        "fishing_licence",
+        "research_staff"
+    ],
+    "group767": [
+        "transport_lines",
+        "market-sharing_agreement",
+        "schleswig-holstein",
+        "medical_and_surgical_instruments"
+    ],
+    "group768": [
+        "social_partners",
+        "forces_abroad",
+        "fishing_agreement"
+    ],
+    "group769": [
+        "european_company",
+        "agricultural_product",
+        "antarctica",
+        "electrochemistry"
+    ],
+    "group77": [
+        "olive_oil",
+        "official_market",
+        "alcohol",
+        "eco-label"
+    ],
+    "group770": [
+        "triticale",
+        "politics",
+        "bathing_water"
+    ],
+    "group771": [
+        "analytical_chemistry",
+        "financial_solvency",
+        "non-ferrous_metal",
+        "social_dialogue"
+    ],
+    "group772": [
+        "oxide",
+        "observer",
+        "overtime"
+    ],
+    "group773": [
+        "poverty",
+        "postal_charges",
+        "cost_analysis",
+        "company_management"
+    ],
+    "group774": [
+        "remuneration_of_work",
+        "tax_evasion",
+        "undp",
+        "pasteurisation"
+    ],
+    "group775": [
+        "non-refundable_aid",
+        "mutual_assistance_scheme",
+        "sweetener",
+        "bis"
+    ],
+    "group776": [
+        "reduction_of_gas_emissions",
+        "province_of_hainault",
+        "governance"
+    ],
+    "group777": [
+        "interest-rate_subsidy",
+        "hunting",
+        "industrial_conversion",
+        "third_lom??_convention"
+    ],
+    "group778": [
+        "scientific_research",
+        "fishing_area",
+        "methanol",
+        "jamaica"
+    ],
+    "group779": [
+        "patronage",
+        "civil_liability",
+        "automation",
+        "biodegradability"
+    ],
+    "group78": [
+        "production_improvement",
+        "official_language",
+        "esf",
+        "official_journal"
+    ],
+    "group780": [
+        "invoicing",
+        "protein_products",
+        "agricultural_cooperative"
+    ],
+    "group781": [
+        "eastern_europe",
+        "european_trademark",
+        "european_union",
+        "eurydice"
+    ],
+    "group782": [
+        "reserves",
+        "safety_device",
+        "7937.0",
+        "apprenticeship"
+    ],
+    "group783": [
+        "agri-monetary_policy",
+        "agricultural_guidance",
+        "professional_secret",
+        "population_density"
+    ],
+    "group784": [
+        "principle_of_subsidiarity",
+        "pay_rise",
+        "tariff_exemption"
+    ],
+    "group785": [
+        "driving_licence",
+        "crop_yield",
+        "publishing",
+        "catering"
+    ],
+    "group786": [
+        "handling",
+        "earths_and_stones",
+        "election"
+    ],
+    "group787": [
+        "accession_negotiations",
+        "rwanda",
+        "employment_aid",
+        "russia"
+    ],
+    "group788": [
+        "business_lease",
+        "apulia",
+        "crew"
+    ],
+    "group789": [
+        "sysmin",
+        "restrictive-practice_authorisation",
+        "domestic_violence",
+        "excise_duty"
+    ],
+    "group79": [
+        "transport_licence",
+        "consumer_protection",
+        "industrialised_country",
+        "urban_road"
+    ],
+    "group790": [
+        "cultivation_system",
+        "soil_science",
+        "fao",
+        "dairy_ice_cream"
+    ],
+    "group791": [
+        "cyprus",
+        "atmospheric_conditions",
+        "thessaly",
+        "dissemination_of_information"
+    ],
+    "group792": [
+        "gift_item",
+        "contract_staff",
+        "budgetary_assessment"
+    ],
+    "group793": [
+        "bangladesh",
+        "animal_leucosis",
+        "exchange_control",
+        "burgenland"
+    ],
+    "group794": [
+        "health_service",
+        "common_fisheries_policy",
+        "outsourcing",
+        "brittany"
+    ],
+    "group795": [
+        "property_market",
+        "right_to_stand_for_election",
+        "free_zone",
+        "transport_document"
+    ],
+    "group796": [
+        "un_commission",
+        "private_stock",
+        "food_control"
+    ],
+    "group797": [
+        "production_quota",
+        "dominican_republic",
+        "human_rights",
+        "laying_poultry"
+    ],
+    "group798": [
+        "animal_feedingstuffs",
+        "sulphur",
+        "soec",
+        "child_pornography"
+    ],
+    "group799": [
+        "calf",
+        "criminal_proceedings",
+        "agrarian_reform",
+        "noise_protection"
+    ],
+    "group8": [
+        "greenland",
+        "catch_of_fish",
+        "air_space"
+    ],
+    "group80": [
+        "dual-use_technology",
+        "eu_cooperation_body",
+        "commercial_bank"
+    ],
+    "group800": [
+        "vat_rate",
+        "lombardy",
+        "privilege"
+    ],
+    "group801": [
+        "mode_of_transport",
+        "tool_industry",
+        "fruit",
+        "regional_aid"
+    ],
+    "group802": [
+        "guarantee",
+        "long-term_financing",
+        "food_production"
+    ],
+    "group803": [
+        "european_training_foundation",
+        "long-term_credit",
+        "lom??_convention",
+        "biological_standard"
+    ],
+    "group804": [
+        "argentina",
+        "bond",
+        "carcinogenic_substance"
+    ],
+    "group805": [
+        "veal",
+        "amendment_of_a_law",
+        "ecsc_individual_decision",
+        "beef"
+    ],
+    "group806": [
+        "signature_of_an_agreement",
+        "european_political_union",
+        "after-sales_service",
+        "penal_code"
+    ],
+    "group807": [
+        "mexico",
+        "right_to_information",
+        "franche-comt??",
+        "free_price"
+    ],
+    "group808": [
+        "rural_development",
+        "nature_reserve",
+        "gelatine"
+    ],
+    "group809": [
+        "gelderland",
+        "genetics",
+        "building_regulations",
+        "potato"
+    ],
+    "group81": [
+        "applied_sciences",
+        "energy_research",
+        "competence_of_the_member_states",
+        "electronic_commerce"
+    ],
+    "group810": [
+        "suspension_of_customs_duties",
+        "kosovo",
+        "inorganic_chemical_product",
+        "traditional_fishing"
+    ],
+    "group811": [
+        "teaching",
+        "arid_zone",
+        "guadeloupe",
+        "animal_nutrition"
+    ],
+    "group812": [
+        "nigeria",
+        "senegal",
+        "storage_of_food"
+    ],
+    "group813": [
+        "third_countries_in_the_mediterranean",
+        "hemp",
+        "secretariat_of_an_institution",
+        "luxury_products_industry"
+    ],
+    "group814": [
+        "mollusc",
+        "hard_cheese",
+        "forward_studies",
+        "electronics"
+    ],
+    "group815": [
+        "classification",
+        "leather_industry",
+        "labour_inspectorate",
+        "\"provence-alpes-c??te_dazur\""
+    ],
+    "group816": [
+        "agency_abroad",
+        "kyrgyzstan",
+        "economic_cooperation"
+    ],
+    "group817": [
+        "pedestrian",
+        "peloponnese",
+        "belgium",
+        "vatican"
+    ],
+    "group818": [
+        "community_directive",
+        "town_planning",
+        "first_aid",
+        "minimum_stock"
+    ],
+    "group819": [
+        "european_tax_cooperation",
+        "nationality",
+        "oxygen",
+        "postal_service"
+    ],
+    "group82": [
+        "algae",
+        "intervention_agency",
+        "greece",
+        "clothing_industry"
+    ],
+    "group820": [
+        "rural_migration",
+        "amortisation",
+        "electronic_component"
+    ],
+    "group821": [
+        "military_cooperation",
+        "czech_republic",
+        "seat_of_community_institution",
+        "fruit-growing"
+    ],
+    "group822": [
+        "protection_of_animal_life",
+        "un_resolution",
+        "andorra",
+        "un_convention"
+    ],
+    "group823": [
+        "solomon_islands",
+        "animal_breeding",
+        "democratic_republic_of_congo",
+        "social_labelling"
+    ],
+    "group824": [
+        "exemption_from_customs_duties",
+        "interinstitutional_agreement",
+        "telecommunications"
+    ],
+    "group825": [
+        "farm_prices",
+        "appeal_to_an_administrative_authority",
+        "farm_return",
+        "capital_market"
+    ],
+    "group826": [
+        "antarctic_ocean",
+        "economic_independence",
+        "legal_expenses",
+        "right_to_work"
+    ],
+    "group827": [
+        "fattening",
+        "international_charter",
+        "telecommunications_equipment",
+        "meat_from_game"
+    ],
+    "group828": [
+        "animal_life",
+        "andean_group_countries",
+        "atmosphere"
+    ],
+    "group829": [
+        "bornholm",
+        "labelling",
+        "development_bank",
+        "processed_food_product"
+    ],
+    "group83": [
+        "4067",
+        "administrative_powers",
+        "malaysia",
+        "industrial_project"
+    ],
+    "group830": [
+        "nut",
+        "trace_element",
+        "night_work",
+        "european_legal_area"
+    ],
+    "group831": [
+        "capital_gains_tax",
+        "trade_policy",
+        "financial_legislation",
+        "farmer"
+    ],
+    "group832": [
+        "privatisation",
+        "available_energy_resources",
+        "type_of_business"
+    ],
+    "group833": [
+        "castor_bean",
+        "cross-channel_connection",
+        "management_audit",
+        "legal_person"
+    ],
+    "group834": [
+        "integrated_development",
+        "trade_information",
+        "commonwealth"
+    ],
+    "group835": [
+        "inland_waterway_fleet",
+        "telecommunications_policy",
+        "civil_procedure",
+        "budget_estimate"
+    ],
+    "group836": [
+        "peninsular_malaysia",
+        "financing_plan",
+        "friuli-venezia_giulia"
+    ],
+    "group837": [
+        "national_production",
+        "navigational_code",
+        "pharmacist",
+        "prevention_of_pollution"
+    ],
+    "group838": [
+        "legal_cooperation",
+        "refrigerated_product",
+        "regional_and_local_authorities",
+        "audio-visual_production"
+    ],
+    "group839": [
+        "cohesion_fund",
+        "bahrain",
+        "european_economic_interest_grouping",
+        "european_foundation_for_the_improvement_of_living_and_working_conditions"
+    ],
+    "group84": [
+        "energy_crop",
+        "international_criminal_tribunal",
+        "shellfish_farming"
+    ],
+    "group840": [
+        "used_goods",
+        "european_language",
+        "castile-leon"
+    ],
+    "group841": [
+        "european_monetary_system",
+        "piping",
+        "pleasure_craft",
+        "common_agricultural_policy"
+    ],
+    "group842": [
+        "digital_technology",
+        "european_identity",
+        "heating",
+        "european_integration"
+    ],
+    "group843": [
+        "european_movement",
+        "agricultural_implement",
+        "bilateral_relations",
+        "trade_licence"
+    ],
+    "group844": [
+        "recording_medium",
+        "economic_development",
+        "agricultural_productivity"
+    ],
+    "group845": [
+        "staff_regulations",
+        "social_role",
+        "agricultural_equipment",
+        "help_for_victims"
+    ],
+    "group846": [
+        "share",
+        "pet_food",
+        "political_situation",
+        "agricultural_statistics"
+    ],
+    "group847": [
+        "heat-resisting_materials",
+        "radiobiology",
+        "ionian_sea",
+        "agrarian_law"
+    ],
+    "group848": [
+        "damage",
+        "language_teaching",
+        "pneumatic_tyre"
+    ],
+    "group849": [
+        "organic_farming",
+        "examination",
+        "national_independence",
+        "public_building"
+    ],
+    "group85": [
+        "association_agreement",
+        "anti-subsidy_proceeding",
+        "2164",
+        "traffic_signs"
+    ],
+    "group850": [
+        "netherlands_antilles",
+        "eaec_treaty",
+        "butter",
+        "un_conference"
+    ],
+    "group851": [
+        "decontamination",
+        "europol",
+        "community_statistics",
+        "building_insulation"
+    ],
+    "group852": [
+        "market_research",
+        "market_support",
+        "market_supervision"
+    ],
+    "group853": [
+        "computer_systems",
+        "co-financing",
+        "soya_bean",
+        "niger"
+    ],
+    "group854": [
+        "ruling",
+        "direct_selling",
+        "market_stabilisation",
+        "business_location"
+    ],
+    "group855": [
+        "restoration_of_customs_duties",
+        "public_authorities",
+        "personal_accident_insurance",
+        "reservation"
+    ],
+    "group856": [
+        "peacekeeping",
+        "heavy_metal",
+        "nickel"
+    ],
+    "group857": [
+        "trade_event",
+        "free_movement_of_programmes",
+        "polluter_pays_principle",
+        "anhydride"
+    ],
+    "group858": [
+        "scientific_apparatus",
+        "contract_terms",
+        "meat",
+        "offer_price"
+    ],
+    "group859": [
+        "plant_breeding",
+        "community_transit",
+        "school_textbook",
+        "bull"
+    ],
+    "group86": [
+        "approximation_of_laws",
+        "driving_period",
+        "ad_hoc_committee",
+        "eaec"
+    ],
+    "group860": [
+        "shareholding",
+        "medical_specialisation",
+        "mixed_agreement"
+    ],
+    "group861": [
+        "payment",
+        "gross_domestic_product",
+        "census",
+        "furniture_industry"
+    ],
+    "group862": [
+        "game_of_chance",
+        "prices_policy",
+        "medium-term_credit",
+        "management_information_system"
+    ],
+    "group863": [
+        "new_technology",
+        "change_of_job",
+        "soil_resources",
+        "termination_of_employment"
+    ],
+    "group864": [
+        "boiler",
+        "agricultural_performance",
+        "bank_charges"
+    ],
+    "group865": [
+        "production_refund",
+        "smoked_product",
+        "channel_islands",
+        "measuring_equipment"
+    ],
+    "group866": [
+        "tyrol",
+        "social-security_contribution",
+        "smallholding"
+    ],
+    "group867": [
+        "social-security_harmonisation",
+        "sound_reproduction_equipment",
+        "intermediate_technology",
+        "northern_europe"
+    ],
+    "group868": [
+        "social_situation",
+        "personal_weapon",
+        "pip_fruit"
+    ],
+    "group869": [
+        "non-governmental_organisation",
+        "cyclical_fluctuation",
+        "demerger",
+        "pharmaceutical_product"
+    ],
+    "group87": [
+        "maize",
+        "petrochemicals",
+        "lower_saxony",
+        "natural_hazard"
+    ],
+    "group870": [
+        "smoking",
+        "farm_lease",
+        "business_start-up",
+        "budgetary_discharge"
+    ],
+    "group871": [
+        "power_to_negotiate",
+        "frozen_product",
+        "regional_accounting",
+        "report"
+    ],
+    "group872": [
+        "promotion_of_the_european_idea",
+        "heifer",
+        "fodder_cereals"
+    ],
+    "group873": [
+        "foreign_capital",
+        "sicily",
+        "direct_cost",
+        "outward_processing"
+    ],
+    "group874": [
+        "fruit_juice",
+        "plutonium",
+        "residence_permit",
+        "food_supplement"
+    ],
+    "group875": [
+        "flavoured_wine",
+        "martinique",
+        "publication",
+        "project_management"
+    ],
+    "group876": [
+        "takeover_bid",
+        "cheese",
+        "food_processing"
+    ],
+    "group877": [
+        "food_standard",
+        "pharmacology",
+        "social_participation",
+        "spare_part"
+    ],
+    "group878": [
+        "linguistics",
+        "public_works",
+        "principality_of_asturias",
+        "action_brought_before_the_ec_court_of_justice"
+    ],
+    "group879": [
+        "balance_sheet",
+        "ukraine",
+        "rye",
+        "financial_market"
+    ],
+    "group88": [
+        "anti-dumping_legislation",
+        "common_tariff_policy",
+        "irradiation"
+    ],
+    "group880": [
+        "offence",
+        "road_cabotage",
+        "biology"
+    ],
+    "group881": [
+        "perishable_goods",
+        "rh??ne-alpes",
+        "marketing_standard",
+        "european_civil_service"
+    ],
+    "group882": [
+        "employment_policy",
+        "foreign_aid",
+        "freezing",
+        "code_of_conduct"
+    ],
+    "group883": [
+        "foreign-exchange_reserves",
+        "game_animal",
+        "customs_transit",
+        "silviculture"
+    ],
+    "group884": [
+        "printing",
+        "transfer_of_property",
+        "transmission_network"
+    ],
+    "group885": [
+        "transfrontier_pollution",
+        "un_secretariat",
+        "computer",
+        "land_transport"
+    ],
+    "group886": [
+        "small_business",
+        "tax_on_income",
+        "combustion_gases",
+        "south-east_england"
+    ],
+    "group887": [
+        "department_(france)",
+        "air_traffic_control",
+        "agricultural_production_policy",
+        "air_traffic"
+    ],
+    "group888": [
+        "scientific_education",
+        "peat",
+        "limited_partnership"
+    ],
+    "group889": [
+        "research_policy",
+        "community_agricultural_market",
+        "ozone",
+        "guarantee_threshold"
+    ],
+    "group89": [
+        "ec_transitional_period",
+        "environmental_cooperation",
+        "northern_ireland",
+        "petrol"
+    ],
+    "group890": [
+        "labour_market",
+        "financial_intervention",
+        "agricultural_labour_force",
+        "packaged_product"
+    ],
+    "group891": [
+        "financial_management",
+        "plo",
+        "sporting_event",
+        "carinthia"
+    ],
+    "group892": [
+        "frontier",
+        "supplementary_pension",
+        "financial_cooperation"
+    ],
+    "group893": [
+        "nuclear_policy",
+        "oman",
+        "operating_system",
+        "ionian_islands"
+    ],
+    "group894": [
+        "financial_perspectives",
+        "sectoral_agreement",
+        "research_budget",
+        "nicaragua"
+    ],
+    "group895": [
+        "recruitment",
+        "agricultural_land",
+        "trade_dispute",
+        "forced_disappearance"
+    ],
+    "group896": [
+        "optics",
+        "lead",
+        "marine_life"
+    ],
+    "group897": [
+        "ober??sterreich",
+        "magnetic_medium",
+        "space_navigation",
+        "regional_policy"
+    ],
+    "group898": [
+        "mining_product",
+        "basic_education",
+        "chain_store"
+    ],
+    "group899": [
+        "teleworking",
+        "synthetic_rubber",
+        "corporate_governance",
+        "fishing_port"
+    ],
+    "group9": [
+        "two-wheeled_vehicle",
+        "turnover",
+        "exchange_parity",
+        "freedom_of_the_skies"
+    ],
+    "group90": [
+        "irradiated_fuel",
+        "international_security",
+        "island",
+        "majority_voting"
+    ],
+    "group900": [
+        "aquitaine",
+        "town-planning_profession",
+        "audio_cassette"
+    ],
+    "group901": [
+        "internet",
+        "international_tariff",
+        "syrup",
+        "team_work"
+    ],
+    "group902": [
+        "transport_insurance",
+        "arms_trade",
+        "cross-frontier_data_flow",
+        "expressway"
+    ],
+    "group903": [
+        "ifc",
+        "underproduction",
+        "use_of_water",
+        "sustainable_mobility"
+    ],
+    "group904": [
+        "parliamentary_debate",
+        "engine",
+        "donation"
+    ],
+    "group905": [
+        "powers_of_parliament",
+        "paramilitary_force",
+        "tariff_barrier",
+        "job_creation"
+    ],
+    "group906": [
+        "sorghum",
+        "iraq",
+        "swap_arrangement",
+        "art_education"
+    ],
+    "group907": [
+        "switzerland",
+        "ceec",
+        "investment_protection",
+        "industrial_property"
+    ],
+    "group908": [
+        "logistics",
+        "solvent",
+        "eaec_regulation"
+    ],
+    "group909": [
+        "radioactive_effluent",
+        "environmental_law",
+        "earthquake",
+        "barrister"
+    ],
+    "group91": [
+        "drinking_water",
+        "self-employment",
+        "redistribution_of_income",
+        "contract_of_carriage"
+    ],
+    "group910": [
+        "power_of_decision",
+        "dual-use_good",
+        "sustainable_development",
+        "torture"
+    ],
+    "group911": [
+        "ec_budgetary_reserve",
+        "merger",
+        "industrial_product",
+        "ec_accession_treaty"
+    ],
+    "group912": [
+        "international_statistics",
+        "texture_agent",
+        "civil_defence"
+    ],
+    "group913": [
+        "airport",
+        "award_of_contract",
+        "community_export",
+        "root_crop"
+    ],
+    "group914": [
+        "crime_against_humanity",
+        "credit_guarantee",
+        "crete",
+        "illicit_trade"
+    ],
+    "group915": [
+        "roadworthiness_tests",
+        "credit_transfer",
+        "administrative_order",
+        "criminal_law"
+    ],
+    "group916": [
+        "credit",
+        "floor_coverings",
+        "criminal_liability"
+    ],
+    "group917": [
+        "commitment_of_expenditure",
+        "credit_institution",
+        "adjuvant",
+        "merchant_fleet"
+    ],
+    "group918": [
+        "dissemination_of_community_information",
+        "medicine",
+        "economic_disparity",
+        "international_negotiations"
+    ],
+    "group919": [
+        "catch_by_species",
+        "palestinian_question",
+        "tax_reform",
+        "restriction_on_competition"
+    ],
+    "group92": [
+        "contract",
+        "gold",
+        "public_awareness_campaign"
+    ],
+    "group920": [
+        "audio-visual_co-production",
+        "control_of_communications",
+        "private_limited_company"
+    ],
+    "group921": [
+        "special-status_institution",
+        "subsistence_level_income",
+        "former_yugoslav_republic_of_macedonia",
+        "budget_financing"
+    ],
+    "group922": [
+        "internal_community_frontier",
+        "space_technology",
+        "fourth_lom??_convention",
+        "cardiovascular_disease"
+    ],
+    "group923": [
+        "sparkling_wine",
+        "hotel_industry",
+        "space_research",
+        "space_transport"
+    ],
+    "group924": [
+        "legal_procedure",
+        "tendering",
+        "crime_against_property"
+    ],
+    "group925": [
+        "soft_fruit",
+        "flax",
+        "special_chemicals",
+        "7985.0"
+    ],
+    "group926": [
+        "catalogue",
+        "information_technology",
+        "derogation_from_community_law",
+        "heavy_oil"
+    ],
+    "group927": [
+        "credit_policy",
+        "literary_and_artistic_property",
+        "recording_equipment",
+        "knitted_and_crocheted_goods"
+    ],
+    "group928": [
+        "plot",
+        "european_convention",
+        "production_statistics"
+    ],
+    "group929": [
+        "northern_england",
+        "production_standard",
+        "insurance_premium",
+        "european_food_safety_authority"
+    ],
+    "group93": [
+        "international_organisation",
+        "economic_consequence",
+        "project_evaluation",
+        "maintenance"
+    ],
+    "group930": [
+        "peaceful_co-existence",
+        "cream",
+        "operational_programme"
+    ],
+    "group931": [
+        "insurance_occupation",
+        "mediterranean_sea",
+        "matrimonial_law",
+        "aluminium"
+    ],
+    "group932": [
+        "services_company",
+        "mercury",
+        "nursing_care"
+    ],
+    "group933": [
+        "protection_of_plant_life",
+        "human_nutrition",
+        "ec_official_journal",
+        "budgetary_resources"
+    ],
+    "group934": [
+        "community_expenditure",
+        "euratom_loan",
+        "negotiated_contract",
+        "infancy"
+    ],
+    "group935": [
+        "public_contract",
+        "aromatic_plant",
+        "alternative_sentence",
+        "bulb_vegetable"
+    ],
+    "group936": [
+        "herbicide",
+        "coal",
+        "north_jutland"
+    ],
+    "group937": [
+        "third_stage_of_emu",
+        "terrorism",
+        "medical_research",
+        "board_of_directors"
+    ],
+    "group938": [
+        "linguistic_group",
+        "cape_verde",
+        "use_of_aid",
+        "inter-company_agreement"
+    ],
+    "group939": [
+        "liquidation",
+        "multinational_enterprise",
+        "flevoland",
+        "\"sheeps_milk_cheese\""
+    ],
+    "group94": [
+        "intra-community_payment",
+        "entrepreneurship",
+        "per_capita_consumption",
+        "drivers"
+    ],
+    "group940": [
+        "sweden",
+        "burgundy",
+        "lignite"
+    ],
+    "group941": [
+        "gross_national_product",
+        "business_tax",
+        "newspaper",
+        "professional_experience"
+    ],
+    "group942": [
+        "heritage_protection",
+        "fodder_beet",
+        "picardy",
+        "syria"
+    ],
+    "group943": [
+        "criminal_procedure",
+        "philippines",
+        "pigmeat",
+        "minister"
+    ],
+    "group944": [
+        "adaptation_of_financial_perspectives",
+        "swaziland",
+        "cultural_cooperation"
+    ],
+    "group945": [
+        "school_legislation",
+        "monaco",
+        "organisation_of_production",
+        "lorraine"
+    ],
+    "group946": [
+        "olive-growing",
+        "second_lom??_convention",
+        "section",
+        "south-west_england"
+    ],
+    "group947": [
+        "european_television",
+        "transfer_of_pension_rights",
+        "moonlighting",
+        "supplementary_trade_mechanism"
+    ],
+    "group948": [
+        "vat_resource",
+        "negotiation_of_an_ec_agreement",
+        "coding"
+    ],
+    "group949": [
+        "contraception",
+        "holding_company",
+        "regions_of_germany",
+        "sub-contracting"
+    ],
+    "group95": [
+        "non-lethal_weapon",
+        "acp_countries",
+        "livestock",
+        "committee_of_inquiry"
+    ],
+    "group950": [
+        "legal_domicile",
+        "boned_meat",
+        "chamber_of_commerce_and_industry",
+        "rest_period"
+    ],
+    "group951": [
+        "marches",
+        "bilateral_agreement",
+        "television_equipment",
+        "central_america"
+    ],
+    "group952": [
+        "disease_prevention",
+        "animal_resources",
+        "animal_show"
+    ],
+    "group953": [
+        "most-favoured_nation",
+        "overheads",
+        "paid_leave",
+        "television"
+    ],
+    "group954": [
+        "central_greece",
+        "marginalisation",
+        "professional_ethics",
+        "international_competition"
+    ],
+    "group955": [
+        "credit_insurance",
+        "harmonisation_of_prices",
+        "baltic_states",
+        "romania"
+    ],
+    "group956": [
+        "financial_autonomy",
+        "intelligent_transport_system",
+        "\"ships_flag\""
+    ],
+    "group957": [
+        "underground_economy",
+        "reproductive_health",
+        "paedophilia",
+        "reflation"
+    ],
+    "group958": [
+        "public_service",
+        "painting",
+        "sugar_levy",
+        "animal_skin"
+    ],
+    "group959": [
+        "substitute_product",
+        "hiring",
+        "announcement_of_candidacy",
+        "european_monetary_institute"
+    ],
+    "group96": [
+        "conference_proceedings",
+        "opinion",
+        "benelux_countries"
+    ],
+    "group960": [
+        "advanced_materials",
+        "montenegro",
+        "recycling_of_capital"
+    ],
+    "group961": [
+        "maritime_conference",
+        "cider",
+        "nea",
+        "beet_sugar"
+    ],
+    "group962": [
+        "olaf",
+        "coal_industry",
+        "spain"
+    ],
+    "group963": [
+        "community_trunk_route",
+        "monopoly",
+        "bar",
+        "mortgage_bank"
+    ],
+    "group964": [
+        "milk_protein",
+        "community_policy",
+        "forestry_policy"
+    ],
+    "group965": [
+        "opcw",
+        "non-formal_education",
+        "exchange_transaction",
+        "import_monopoly"
+    ],
+    "group966": [
+        "metals",
+        "pesticide",
+        "\"survivors_benefit\"",
+        "civilian_personnel"
+    ],
+    "group967": [
+        "customs_formalities",
+        "association",
+        "service",
+        "atmospheric_pollution"
+    ],
+    "group968": [
+        "it??-suomi",
+        "trans-european_network",
+        "community_programme"
+    ],
+    "group969": [
+        "interest",
+        "monetary_union",
+        "milk_product",
+        "dispute_settlement_body"
+    ],
+    "group97": [
+        "double_taxation",
+        "nomenclature",
+        "devaluation",
+        "replanting"
+    ],
+    "group970": [
+        "greenhouse_gas",
+        "macedonia",
+        "service_industry",
+        "toy_industry"
+    ],
+    "group971": [
+        "free_movement_of_goods",
+        "dairy_production",
+        "selective_distribution_agreement",
+        "brandenburg"
+    ],
+    "group972": [
+        "rental_business",
+        "asbestos",
+        "patents_licence"
+    ],
+    "group973": [
+        "international_voluntary_worker",
+        "tariff_ceiling",
+        "management_of_resources",
+        "cedefop"
+    ],
+    "group974": [
+        "professional_qualifications",
+        "community_regional_policy",
+        "regional_integration",
+        "ionising_radiation"
+    ],
+    "group975": [
+        "bio-industry",
+        "storage_capacity",
+        "degree_of_pollution",
+        "legal_basis"
+    ],
+    "group976": [
+        "cast-iron",
+        "footwear_industry",
+        "less-favoured_agricultural_area"
+    ],
+    "group977": [
+        "crime_against_individuals",
+        "offal",
+        "driving_instruction",
+        "fodder_plant"
+    ],
+    "group978": [
+        "\"the_eus_international_role\"",
+        "nutritional_needs",
+        "seasonal_worker",
+        "platinum"
+    ],
+    "group979": [
+        "serbia",
+        "rural_region",
+        "foreign_currency",
+        "gibraltar"
+    ],
+    "group98": [
+        "tax_harmonisation",
+        "ida",
+        "4067.0"
+    ],
+    "group980": [
+        "marketing",
+        "seed_capital",
+        "metalloid"
+    ],
+    "group981": [
+        "guide",
+        "economic_model",
+        "slovenia",
+        "prostitution"
+    ],
+    "group982": [
+        "import_restriction",
+        "finland",
+        "originating_product",
+        "local_tax"
+    ],
+    "group983": [
+        "exploitation_of_resources",
+        "central_bank",
+        "paperboard",
+        "international_law"
+    ],
+    "group984": [
+        "fire",
+        "economic_offence",
+        "power_plant"
+    ],
+    "group985": [
+        "central_asia",
+        "oats",
+        "management_training",
+        "illness"
+    ],
+    "group986": [
+        "arboriculture",
+        "supplies_contract",
+        "first_lom??_convention",
+        "common_ports_policy"
+    ],
+    "group987": [
+        "iron_and_steel_product",
+        "mauritius",
+        "legal_capacity",
+        "document_management"
+    ],
+    "group988": [
+        "information_system",
+        "production_capacity",
+        "goat"
+    ],
+    "group989": [
+        "somalia",
+        "organic_chemical",
+        "iceland",
+        "sheet"
+    ],
+    "group99": [
+        "establishment_of_peace",
+        "abruzzi",
+        "5641",
+        "tax_on_consumption"
+    ],
+    "group990": [
+        "ceramics",
+        "non-participating_country",
+        "nuclear_fuel",
+        "protocol_to_an_agreement"
+    ],
+    "group991": [
+        "unfair_terms_of_contract",
+        "paper",
+        "organisation_of_transport",
+        "maritime_law"
+    ],
+    "group992": [
+        "construction_equipment",
+        "production_planning",
+        "unemployed_person"
+    ],
+    "group993": [
+        "food_preserving",
+        "breeding_animal",
+        "burkina_faso",
+        "discrimination_based_on_disability"
+    ],
+    "group994": [
+        "state_monopoly",
+        "by-product",
+        "fresh_cheese"
+    ],
+    "group995": [
+        "enlargement_of_the_union",
+        "cultural_pluralism",
+        "mafia",
+        "potassium"
+    ],
+    "group996": [
+        "fuel",
+        "territories_of_the_former_yugoslavia",
+        "socio-economic_conditions"
+    ],
+    "group997": [
+        "free_circulation",
+        "monetary_agreement",
+        "local_government",
+        "integration_into_employment"
+    ],
+    "group998": [
+        "technical_barrier",
+        "qualified_majority",
+        "civil_war",
+        "trade_volume"
+    ],
+    "group999": [
+        "feasibility_study",
+        "local_employment_initiative",
+        "south_korea",
+        "international_trade"
+    ]
+}

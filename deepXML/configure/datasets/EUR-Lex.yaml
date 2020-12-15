@@ -1,0 +1,22 @@
+name: EUR-Lex
+
+train:
+  texts: /content/drive/My Drive/DeepXML/EUR-Lex/train_texts.npy
+  labels: /content/drive/My Drive/DeepXML/EUR-Lex/train_labels.npy
+
+valid:
+  size: 200
+
+test:
+  texts: /content/drive/My Drive/DeepXML/EUR-Lex/test_texts.npy
+
+embedding:
+  emb_init: /content/drive/My Drive/DeepXML/EUR-Lex/emb_init.npy
+
+output:
+  res: results
+
+labels_binarizer: /content/drive/My Drive/DeepXML/EUR-Lex/labels_binarizer
+
+model:
+  emb_size: 300
